@@ -1,5 +1,0 @@
-26.10 started scraper file
- - created Startup object that takes in a link number and produces name, amount raised and PDF link
- - used 3 diff functions in Startup object to complete task 
- *- Need to implement raise exception in extracting airtable pdf link 
- 
