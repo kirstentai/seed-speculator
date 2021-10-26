@@ -12,6 +12,7 @@
 
 # from requests_html import HTML
 import requests
+import re
 from bs4 import BeautifulSoup
 
 startup_num = 5285
@@ -32,3 +33,14 @@ for tag in soup.find_all('div', class_="custom-filter first-left"):
     if p_finder != None:
         print(p_finder.text.strip())
 
+# airtable pdf link
+for tag in soup.find_all('button'):
+    # dl_link = tag.find('a', download_="")
+    # all_buttons =  soup.find('button')
+    airtable_link = tag.find(href=True)
+    href_link = airtable_link['href']
+    if re.search(r"airtable", href_link):
+        print(href_link)
+
+    # print("A tag: ",airtable_link)
+    # print("Airtable: ",airtable_link['href'])
