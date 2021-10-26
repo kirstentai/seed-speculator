@@ -7,8 +7,8 @@ from startup import Startup
 
 startup_num = 5285
 
-while startup_num <= 5287:
-    # start and end bounds: 5285 to 5942
+while startup_num <= 5290:
+    # start and end bounds: 5285 to 5942 (657 items)
     url="https://angelmatch.io/pitch_decks/" + str(startup_num)
     page = requests.get(url)
 
@@ -20,13 +20,17 @@ while startup_num <= 5287:
     startup_link = Startup.get_pdflink(startup_obj, soup)
 
 
-# output = "Name: {}\nAmount: {}\nLink: {}".format(startup_name, startup_amt, startup_link)
-    output_to_write = "{},{},{},{}\n".format(startup_num, startup_name, startup_amt, startup_link)
-# print(output_to_write)
+    # output = "Name: {}\nAmount: {}\nLink: {}".format(startup_name, startup_amt, startup_link)
+    # print(output)
 
+    output_to_write = "{},{},{},{}\n".format(startup_num, startup_name, startup_amt, startup_link)
+    # print(output_to_write)
+
+    #Testing items properly stored
+    # print("test objs: name-{},amt-{},link-{}".format(startup_obj.name, startup_obj.amount, startup_obj.pdf_link))
 
     with open('output.txt', 'a') as f:
-        # mode set to a. appends to existing
+    #     # mode set to a. appends to existing
         f.write(output_to_write)
     
     startup_num += 1

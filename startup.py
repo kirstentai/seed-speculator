@@ -7,8 +7,8 @@ class Startup:
     # def __init__(self, name, link_num, amount, pdf_link):
     def __init__(self, link_num):
 
-        # self.name = name
         self.link_num = link_num
+        # self.name = name
         # self.amount = amount
         # self.pdf_link = pdf_link
 
@@ -16,6 +16,7 @@ class Startup:
     def get_name(self, soup_link):
         for tag in soup_link.find_all('div', class_="card-header-title name"):
             name = tag.text.strip()
+            self.name = name
             return name
     
 
@@ -27,7 +28,8 @@ class Startup:
             if p_finder != None:
                 amount_raised_string = p_finder.text.strip()
                 amount = str(re.split(" ", amount_raised_string)[3])
-                # return amount_raised_string #Amount raised:  $20M
+                self.amount = amount
+
                 return amount
 
             return "No amount found."
@@ -42,6 +44,7 @@ class Startup:
 
             # note: implement if href is defined, download pdf else skip and raise warning in script
             if re.search(r"airtable", href_link):
+                self.pdf_link = href_link
                 return href_link
             # else:
             #     return "No PDF link found."
