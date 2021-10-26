@@ -6,7 +6,6 @@
 
 #beautifulsoup4 to pull out pdf link -- get airtable pdf link
 
-# if href is defined, download pdf else skip and raise warning in script
 
 #extract pdf content with pymupdf
 
@@ -22,38 +21,15 @@ page = requests.get(url)
 
 soup = BeautifulSoup(page.content, 'html.parser')
 
-startup_5285 = Startup(startup_num)
-name_5285 = Startup.get_name(startup_5285, soup)
-amt_5285 = Startup.get_amount(startup_5285, soup)
-# print("startup name: ", name_5285)
+startup_obj = Startup(startup_num)
+startup_name = Startup.get_name(startup_obj, soup)
+startup_amt = Startup.get_amount(startup_obj, soup)
+startup_link = Startup.get_pdflink(startup_obj, soup)
 
-#pull out fund raised
-# for tag in soup.find_all('div', class_="custom-filter first-left"):
-#     # custom-filter first-left -> box -> content -> field -> <p>
-#     p_finder = tag.find('p')
+output = "Name: {}\nAmount: {}\nLink: {}".format(startup_name, startup_amt, startup_link)
+output_to_write = "{},{},{}".format(startup_name, startup_amt, startup_link)
+print(output_to_write)
 
-#     if p_finder != None:
-#         amount_raised = p_finder.text.strip()
-        # print(amount_raised)
-
-# airtable pdf link
-for tag in soup.find_all('button'):
-    # dl_link = tag.find('a', download_="")
-    # all_buttons =  soup.find('button')
-    airtable_link = tag.find(href=True)
-    href_link = airtable_link['href']
-    if re.search(r"airtable", href_link):
-        pass
-        # print(href_link)
-
-    # print("A tag: ",airtable_link)
-    # print("Airtable: ",airtable_link['href'])
-
-
-
-output = "Name: {}\n{}\nLink: --".format(name_5285, amt_5285)
-print(output)
-
-# with open('output.txt', 'w') as f:
-#     f.write(output)
-#     f.close()
+with open('output.txt', 'w') as f:
+    f.write(output_to_write)
+    f.close()
