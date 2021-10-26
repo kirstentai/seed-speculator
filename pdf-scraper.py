@@ -21,7 +21,7 @@ while startup_num <= 5287:
 
 
 # output = "Name: {}\nAmount: {}\nLink: {}".format(startup_name, startup_amt, startup_link)
-    output_to_write = "{},{},{}\n".format(startup_name, startup_amt, startup_link)
+    output_to_write = "{},{},{},{}\n".format(startup_num, startup_name, startup_amt, startup_link)
 # print(output_to_write)
 
 
