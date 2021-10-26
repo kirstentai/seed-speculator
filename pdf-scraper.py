@@ -23,7 +23,8 @@ soup = BeautifulSoup(page.content, 'html.parser')
 
 # extract startup name
 for tag in soup.find_all('div', class_="card-header-title name"):
-    print("Name: ",tag.text.strip())
+    startup_name = tag.text.strip()
+    # print("Name: ", startup_name)
 
 #pull out fund raised
 for tag in soup.find_all('div', class_="custom-filter first-left"):
@@ -31,7 +32,8 @@ for tag in soup.find_all('div', class_="custom-filter first-left"):
     p_finder = tag.find('p')
 
     if p_finder != None:
-        print(p_finder.text.strip())
+        amount_raised = p_finder.text.strip()
+        # print(amount_raised)
 
 # airtable pdf link
 for tag in soup.find_all('button'):
@@ -40,7 +42,15 @@ for tag in soup.find_all('button'):
     airtable_link = tag.find(href=True)
     href_link = airtable_link['href']
     if re.search(r"airtable", href_link):
-        print(href_link)
+        pass
+        # print(href_link)
 
     # print("A tag: ",airtable_link)
     # print("Airtable: ",airtable_link['href'])
+
+output = "Name: {}\n{}\nLink: {}".format(startup_name, amount_raised, href_link)
+print(output)
+
+with open('output.txt', 'w') as f:
+    f.write(output)
+    f.close()
