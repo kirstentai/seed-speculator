@@ -1,5 +1,7 @@
 import click
 
+from scraper.routines import main
+
 @click.command()
-def main():
-    print("hello ")
+def cli():
+    main()
