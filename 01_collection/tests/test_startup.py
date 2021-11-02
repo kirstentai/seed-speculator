@@ -10,3 +10,11 @@ def test_name_retrieves_correct_result():
     soup = BeautifulSoup(page.content, 'html.parser')
     name = Startup(5808).get_name(soup)
     assert name == "Slidebean"
+
+def test_amount_correct():
+    url = "https://angelmatch.io/pitch_decks/5808"
+    page = requests.get(url)
+
+    soup = BeautifulSoup(page.content, 'html.parser')
+    name = Startup(5808).get_amount(soup)
+    assert name == "$35K"
