@@ -3,6 +3,9 @@ import setuptools
 setuptools.setup(
     name="scraper",
     version="0.0",
-    packages=setuptools.find_packages()
+    packages=setuptools.find_packages(),
+    entry_points={'console_scripts': "scraper=scraper.cli:main"} #alias scraper
 
 )
+
+# entry points
