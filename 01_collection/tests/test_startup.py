@@ -8,5 +8,5 @@ def test_name_retrieves_correct_result():
     page = requests.get(url)
 
     soup = BeautifulSoup(page.content, 'html.parser')
-    name = Startup.get_name(soup)
+    name = Startup(5808).get_name(soup)
     assert name == "Slidebean"
