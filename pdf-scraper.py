@@ -1,7 +1,7 @@
 import requests
-import re
 from bs4 import BeautifulSoup
 from startup import Startup
+from tqdm import tqdm
 
 
 
