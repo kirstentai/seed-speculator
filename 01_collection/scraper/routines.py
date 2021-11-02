@@ -3,11 +3,15 @@ from bs4 import BeautifulSoup
 from scraper.startup import Startup
 from tqdm import tqdm
 
+from scraper.io import write_results
+
 def main():
     init_num = 5801
     start_num = 5801
     end_num = 5942
     nopdf_link = 0
+
+    results = []
 
     while start_num <= end_num:
         # start and end bounds: 5285 to 5942 (657 items)
@@ -27,17 +31,21 @@ def main():
         # output = "Name: {}\nAmount: {}\nLink: {}".format(startup_name, startup_amt, startup_link)
         # print(output)
 
-        output_to_write = "{},{},{},{}\n".format(start_num, startup_name, startup_amt, startup_link)
-        # print(output_to_write)
+        results.append({"start_num": start_num, "startup_name":startup_name, "startup_amt": startup_amt, "startup_link": startup_link})
 
-        #Testing items properly stored
-        # print("test objs: name-{},amt-{},link-{}".format(startup_obj.name, startup_obj.amount, startup_obj.pdf_link))
+        # output_to_write = "{},{},{},{}\n".format(start_num, startup_name, startup_amt, startup_link)
+        # # print(output_to_write)
 
-        with open('output.txt', 'a') as parsed_file:
-        #     # mode set to a. appends to existing
-            parsed_file.write(output_to_write)
+        # #Testing items properly stored
+        # # print("test objs: name-{},amt-{},link-{}".format(startup_obj.name, startup_obj.amount, startup_obj.pdf_link))
+
+        # with open('output.txt', 'a') as parsed_file:
+        # #     # mode set to a. appends to existing
+        #     parsed_file.write(output_to_write)
         
-        start_num += 1
+        # start_num += 1
+    
+    write_results(results)
 
     with open('tracker.txt', 'a') as track_file:
         output = "\n{} to {}: {} items with no link.".format(init_num, end_num, nopdf_link)
