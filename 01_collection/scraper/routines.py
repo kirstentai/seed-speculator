@@ -5,16 +5,19 @@ from startup import get_name, get_amount, get_pdflink
 from tqdm import *
 import time    
 
+
+
 # start and end bounds: 5285 to 5942 (657 items)
 def main():
-
 
     start_num = 5285
     end_num = 5290
     nopdf_link = 0
 
+
+
+
     while start_num <= end_num:
-    # for i in range(5285, 5943):
         startup_name = get_name(start_num)
         startup_amt = get_amount(start_num)
         startup_link = get_pdflink(start_num)
