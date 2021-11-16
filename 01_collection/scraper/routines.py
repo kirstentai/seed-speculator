@@ -1,20 +1,15 @@
-import requests
-import sys
-from bs4 import BeautifulSoup
 from startup import get_name, get_amount, get_pdflink
-from tqdm import *
-import time    
+# from tqdm import *
+# import time    
 
 
 
-# start and end bounds: 5285 to 5942 (657 items)
 def main():
-
+    """ start and end bounds: 5285 to 5942 (657 items)"""
+    
     start_num = 5285
-    end_num = 5290
+    end_num = 5942
     nopdf_link = 0
-
-
 
 
     while start_num <= end_num:
@@ -26,13 +21,13 @@ def main():
             nopdf_link += 1
             print("No link: {}".format(nopdf_link))
 
-        output = "Num: {}\nName: {}\nAmount: {}\nLink: {}".format(start_num, startup_name, startup_amt, startup_link)
+        output = "Num: {} | Name: {} | Amount: {} | Link: {}".format(start_num, startup_name, startup_amt, startup_link)
         print(output)
         
         start_num += 1
+        # time.sleep(0.001)
 
-
-# with tqdm(total=100, file=sys.stdout) as pbar:
-#     for i in range(10):
-#         main()
-#         pbar.update(10)
+# for i in tqdm(range(20)):
+#     main()
+#     time.sleep(0.001)
+main()

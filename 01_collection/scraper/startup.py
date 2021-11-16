@@ -46,7 +46,9 @@ def get_pdflink(start_num):
 
 
         # note: implement if href is defined, download pdf else skip and raise warning in script
+        # try:
         if re.search(r"airtable", href_link):
+        # print("regex: {}".format(href_link))
             response = requests.get(href_link)
 
             with open(file_name, 'wb') as f:
