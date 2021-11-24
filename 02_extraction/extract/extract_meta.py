@@ -1,35 +1,47 @@
-import fitz
+""" This file extracts pdf details."""
 import os.path
-
-current_directory = os.path.dirname(__file__)
-parent_directory = os.path.split(current_directory)[0]
-parent_directory_2 = os.path.split(parent_directory)[0]
-filename = '5286.pdf'
-file_path = os.path.join(parent_directory_2, '01_collection', filename)
-
-print(file_path)
-
-doc = fitz.Document(file_path)
+import fitz
+import pdfplumber
 
 
-pdf_metadata = doc.metadata
-print(pdf_metadata)
+def main():
+    
+    file_no = 5285
+    while file_no >= 5285 and file_no <= 5287: #5941 last
+        file_path = get_filepath(file_no)
+        doc = fitz.Document(file_path)
+        
+        print("Startup no.: ", file_no)
+
+        page_count = count_pages(doc)
+        print(f"page count: {page_count}") # starts pg 0 to page_count - 1
+
+        for n in range(page_count):
+            current_page = extract_text_page(file_path, n)
+            print(f"Page {n}/{page_count}: {current_page}")
+
+        file_no += 1
 
 
-page_count = doc.page_count
-print("page count: {}".format(page_count))
+def get_filepath(file_number):
+    current_directory = os.path.dirname(__file__)
+    parent_directory = os.path.split(current_directory)[0]
+    parent_directory_2 = os.path.split(parent_directory)[0]
+
+    FILE = str(file_number) + '.pdf'
+    filepath = os.path.join(parent_directory_2, '01_collection', FILE)
+
+    return filepath
 
 
-read_page = doc.load_page(1)
-print("read page: {}".format(read_page))
+def count_pages(document):
+    count = document.page_count
+    return count
 
 
-# #extract table of content
-pdf_toc = doc.get_toc()
-print("toc: {}".format(pdf_toc))
+def extract_text_page(filepath, page_num):
+    with pdfplumber.open(filepath) as pdf:
+        page = pdf.pages[page_num]
+        return page.extract_text()    
 
-
-# # extract links from a page
-for page in doc:
-    plink = page.get_links()
-    print("{} | links: {}".format(page, plink))
+main()
