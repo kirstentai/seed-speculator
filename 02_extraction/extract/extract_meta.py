@@ -5,12 +5,15 @@ import pdfplumber
 import io
 from PIL import Image
 
-
+import cv2
+import numpy as np
+from skimage import io as skio
+import matplotlib.pyplot as plt
 
 def main():
     file_no = 5288
     start_number = 5288
-    end_number = 5289 #5941 last
+    end_number = 5288 #5941 last
     while start_number <= file_no <= end_number: 
 
         try:
@@ -22,21 +25,42 @@ def main():
         doc = fitz.Document(file_path)
 
         page_count = count_pages(doc)
-        print(f"Page count: {page_count}") if page_count else print("No PDF.")
+        
 
-        # extract text, download image, save image file names to list
+        # for each page, extract text, download image, save image file names to list
         images_masterlist = []
+        text_masterlist = []
+        font_masterlist = []
         for current_page in range(page_count):
             page = extract_text_page(file_path, current_page)
             print(f"Page {current_page + 1}/{page_count}: {page}")
+            text_masterlist.append(str(page))
 
             list_of_images = extract_download_image(file_no, doc, current_page)
             images_masterlist = images_masterlist + list_of_images
 
             if page is not None:
-                extract_font(doc, current_page)
-            
-        print(f"image files: {images_masterlist}")
+                page_font = extract_font(doc, current_page)
+                font_masterlist.append(page_font)
+        # print(f"image files: {images_masterlist}")
+        
+        colors_masterlist = []
+        for img in images_masterlist:
+            try:
+                main_color = extract_image_color(img)
+                colors_masterlist.append(list(main_color))
+
+            except:
+                print("Unable to get color.")
+                pass
+        
+        print(f"====== Summary: {file_no} ======")
+        print(f"Page count: {page_count}") if page_count else print("No PDF.")
+        print(f"font master: {font_masterlist}")
+        
+        colors_dict = {str(rgb_color):colors_masterlist.count(rgb_color) for rgb_color in colors_masterlist}
+        print(f"color schemes: {colors_dict}")
+        print(f"text master: {text_masterlist}")
         file_no += 1
 
 
@@ -72,7 +96,7 @@ def extract_download_image(startup_number, document, page_number):
 
     # print number of images found in current page
     if image_list:
-        print(f"[+] Found {len(image_list)} images in page {page_number}.")
+        print(f"[+] Found {len(image_list)} images in page {page_number+1}.")
     else:
         print(f"[!] No image found.")
     
@@ -100,7 +124,28 @@ def extract_download_image(startup_number, document, page_number):
 
 def extract_font(document, page_number):
     font_list = document.get_page_fonts(page_number)
-    print(f"fonts: {font_list}")
+    # print(f"fonts: {font_list}")
+    return font_list
 
+
+def extract_image_color(filename):
+    img = skio.imread(filename)[:, :, :-1]
+    # print(f"img: {img}")
+
+    # calculate the mean of each chromatic channel 
+    average = img.mean(axis=0).mean(axis=0)
+
+    # apply k-means clustering to create a palette
+    pixels = np.float32(img.reshape(-1, 3))
+    n_colors = 3
+    criteria = (cv2.TERM_CRITERIA_EPS + cv2.TERM_CRITERIA_MAX_ITER, 200, .1)
+    flags = cv2.KMEANS_RANDOM_CENTERS
+
+    _, labels, palette = cv2.kmeans(pixels, n_colors, None, criteria, 10, flags)
+    _, counts = np.unique(labels, return_counts=True)
+
+    dominant = palette[np.argmax(counts)]
+    # print(f"dominant color: {dominant}")
+    return dominant
 
 main()
