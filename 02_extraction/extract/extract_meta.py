@@ -13,12 +13,12 @@ import matplotlib.pyplot as plt
 def main():
     file_no = 5288
     start_number = 5288
-    end_number = 5288 #5941 last
+    end_number = 5290 #5941 last
     while start_number <= file_no <= end_number: 
 
         try:
             file_path = get_filepath(file_no)
-            print("Startup no.: ", file_no)
+            print(f"====== Extracting startup no.: {file_no} ======")
         except Exception:
             pass
 
@@ -32,7 +32,8 @@ def main():
         font_masterlist = []
         for current_page in range(page_count):
             page = extract_text_page(file_path, current_page)
-            print(f"Page {current_page + 1}/{page_count}: {page}")
+            # print(f"Page {current_page + 1}/{page_count}: {page}")
+            print(f"Page {current_page + 1}/{page_count}: Text detected")
             text_masterlist.append(str(page))
 
             list_of_images = extract_download_image(file_no, doc, current_page)
@@ -40,27 +41,32 @@ def main():
 
             if page is not None:
                 page_font = extract_font(doc, current_page)
-                font_masterlist.append(page_font)
-        # print(f"image files: {images_masterlist}")
+                # font_masterlist.append(page_font)
+                font_masterlist = font_masterlist + page_font
         
-        colors_masterlist = []
-        for img in images_masterlist:
-            try:
-                main_color = extract_image_color(img)
-                colors_masterlist.append(list(main_color))
+        # consolidates all dominant colors detected in images, contains repeated inputs
+        colors_masterlist, no_colors = consolidate_colors(images_masterlist)
 
-            except:
-                print("Unable to get color.")
-                pass
+        colors_dict = tally_list(colors_masterlist)
+
+        fonts_dict = tally_list(font_masterlist)
         
         print(f"====== Summary: {file_no} ======")
-        print(f"Page count: {page_count}") if page_count else print("No PDF.")
-        print(f"Total images found: {len(images_masterlist)}")
-        print(f"Fonts master list: {font_masterlist}")
+        print(f"Page count: {page_count}") if page_count else print("No PDF detected.")
 
-        colors_dict = {str(rgb_color):colors_masterlist.count(rgb_color) for rgb_color in colors_masterlist}
-        print(f"Color schemes: {colors_dict}")
-        print(f"Text master list: {text_masterlist}")
+        if len(images_masterlist) != 0:
+            print(f"Total images found: {len(images_masterlist)}") 
+        
+        if len(colors_masterlist) != 0 and no_colors != 0:
+            print(f"{len(colors_masterlist)} colors detected, {no_colors} not.\n")
+
+        if len(fonts_dict) != 0:
+            print(f"Fonts tally: {fonts_dict}\n")
+        # print(f"Fonts master: {font_masterlist}\n")
+        if len(colors_dict) != 0:
+            print(f"Color schemes tally: {colors_dict}\n")
+        if len(text_masterlist) != 0:
+            print(f"Consolidated text: {text_masterlist}")
         file_no += 1
 
 
@@ -148,4 +154,25 @@ def extract_image_color(filename):
     # print(f"dominant color: {dominant}")
     return dominant
 
+
+def consolidate_colors(image_list):
+    colors_masterlist = []
+    no_color = 0
+    for image in image_list:
+        try:
+            main_color = extract_image_color(image)
+            print(f"[+] Color detected: {main_color}")
+            colors_masterlist.append(list(main_color))
+        except:
+            # print("[!] Unable to get color.")
+            no_color += 1
+            pass
+
+    return colors_masterlist, no_color
+
+
+def tally_list(list):
+    tally_dict = {str(unique_item):list.count(unique_item) for unique_item in list}
+    return tally_dict
+    
 main()
