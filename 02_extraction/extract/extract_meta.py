@@ -26,7 +26,6 @@ def main():
 
         page_count = count_pages(doc)
         
-
         # for each page, extract text, download image, save image file names to list
         images_masterlist = []
         text_masterlist = []
@@ -56,11 +55,12 @@ def main():
         
         print(f"====== Summary: {file_no} ======")
         print(f"Page count: {page_count}") if page_count else print("No PDF.")
-        print(f"font master: {font_masterlist}")
-        
+        print(f"Total images found: {len(images_masterlist)}")
+        print(f"Fonts master list: {font_masterlist}")
+
         colors_dict = {str(rgb_color):colors_masterlist.count(rgb_color) for rgb_color in colors_masterlist}
-        print(f"color schemes: {colors_dict}")
-        print(f"text master: {text_masterlist}")
+        print(f"Color schemes: {colors_dict}")
+        print(f"Text master list: {text_masterlist}")
         file_no += 1
 
 
