@@ -1,4 +1,4 @@
-from startup import get_name, get_amount, get_pdflink
+from scraper.startup import get_name, get_amount, get_pdflink
 # from tqdm import *
 # import time    
 
@@ -30,4 +30,3 @@ def main():
 # for i in tqdm(range(20)):
 #     main()
 #     time.sleep(0.001)
-main()
