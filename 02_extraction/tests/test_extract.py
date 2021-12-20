@@ -1,5 +1,5 @@
 import pytest
-from extract import *
+from extract.extract_meta import *
 
 def test_results_write_json():
     ...

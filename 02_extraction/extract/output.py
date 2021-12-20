@@ -1,4 +1,4 @@
-""" Write dictoinary to json"""
+""" Write dictionary to json"""
 import os
 import json
 

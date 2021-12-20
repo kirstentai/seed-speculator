@@ -1,6 +1,8 @@
 __pycache__/
 .DS_Store
 *.pyc 
-journal.txt
 *.egg-info/
 *.pdf
+*.png
+*.jpeg
+*.jpx

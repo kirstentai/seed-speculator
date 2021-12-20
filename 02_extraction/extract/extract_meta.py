@@ -9,11 +9,12 @@ import cv2
 import numpy as np
 from skimage import io as skio
 import matplotlib.pyplot as plt
+from extract.output import write_results
 
 def main():
-    file_no = 5288
-    start_number = 5288
-    end_number = 5290 #5941 last
+    file_no = 5285
+    start_number = 5285
+    end_number = 5286 #5941 last
     while start_number <= file_no <= end_number: 
 
         try:
@@ -33,7 +34,7 @@ def main():
         for current_page in range(page_count):
             page = extract_text_page(file_path, current_page)
             # print(f"Page {current_page + 1}/{page_count}: {page}")
-            print(f"Page {current_page + 1}/{page_count}: Text detected")
+                # print(f"Page {current_page + 1}/{page_count}: Text detected")
             text_masterlist.append(str(page))
 
             list_of_images = extract_download_image(file_no, doc, current_page)
@@ -41,32 +42,16 @@ def main():
 
             if page is not None:
                 page_font = extract_font(doc, current_page)
-                # font_masterlist.append(page_font)
                 font_masterlist = font_masterlist + page_font
         
         # consolidates all dominant colors detected in images, contains repeated inputs
         colors_masterlist, no_colors = consolidate_colors(images_masterlist)
-
         colors_dict = tally_list(colors_masterlist)
 
         fonts_dict = tally_list(font_masterlist)
         
-        print(f"====== Summary: {file_no} ======")
-        print(f"Page count: {page_count}") if page_count else print("No PDF detected.")
-
-        if len(images_masterlist) != 0:
-            print(f"Total images found: {len(images_masterlist)}") 
-        
-        if len(colors_masterlist) != 0 and no_colors != 0:
-            print(f"{len(colors_masterlist)} colors detected, {no_colors} not.\n")
-
-        if len(fonts_dict) != 0:
-            print(f"Fonts tally: {fonts_dict}\n")
-        # print(f"Fonts master: {font_masterlist}\n")
-        if len(colors_dict) != 0:
-            print(f"Color schemes tally: {colors_dict}\n")
-        if len(text_masterlist) != 0:
-            print(f"Consolidated text: {text_masterlist}")
+        print_results(file_no, page_count, images_masterlist, colors_masterlist, no_colors, fonts_dict, colors_dict, text_masterlist)
+        output_results(file_no, page_count, fonts_dict, colors_dict, text_masterlist)
         file_no += 1
 
 
@@ -119,11 +104,12 @@ def extract_download_image(startup_number, document, page_number):
         image = Image.open(io.BytesIO(image_bytes))
         # save it to local disk
         image_filename = f"{startup_number}_img{page_number+1}.{image_index}.{image_ext}"
+        image_path = 'images/' + image_filename
 
         #save image to local
-        image.save(open(image_filename, "wb"))
+        image.save(open(image_path, "wb"))
         #append file names of downloaded images to list
-        image_download_list.append(image_filename)
+        image_download_list.append(image_path)
     
     return image_download_list
 
@@ -154,6 +140,22 @@ def extract_image_color(filename):
     # print(f"dominant color: {dominant}")
     return dominant
 
+def get_dominant_color(pil_img, palette_size=16):
+    # Resize image to speed up processing
+    img = pil_img.copy()
+    img.thumbnail((100, 100))
+
+    # Reduce colors (uses k-means internally)
+    paletted = img.convert('P', palette=Image.ADAPTIVE, colors=palette_size)
+
+    # Find the color that occurs most often
+    palette = paletted.getpalette()
+    color_counts = sorted(paletted.getcolors(), reverse=True)
+    palette_index = color_counts[0][1]
+    dominant_color = palette[palette_index*3:palette_index*3+3]
+
+    return dominant_color
+
 
 def consolidate_colors(image_list):
     colors_masterlist = []
@@ -164,7 +166,7 @@ def consolidate_colors(image_list):
             print(f"[+] Color detected: {main_color}")
             colors_masterlist.append(list(main_color))
         except:
-            # print("[!] Unable to get color.")
+            print("[!] Unable to get color.")
             no_color += 1
             pass
 
@@ -173,6 +175,33 @@ def consolidate_colors(image_list):
 
 def tally_list(list):
     tally_dict = {str(unique_item):list.count(unique_item) for unique_item in list}
+    # sorted_dict = sorted(list(tally_dict), key=lambda x:x[var])
     return tally_dict
     
+
+def output_results(startup_no, count, fonts, colors, text):
+
+    startup_dict = {'startup_number': startup_no, 'page_count': count, 'fonts': fonts, 'colors': colors, 'text': text}
+    write_results("output.json", startup_dict)
+
+
+def print_results(file_no, page_count, images_masterlist, colors_masterlist, no_colors, fonts_dict, colors_dict, text_masterlist):
+    print(f"====== Summary: {file_no} ======")
+    print(f"Page count: {page_count}") if page_count else print("No PDF detected.")
+
+    if len(images_masterlist) != 0:
+        print(f"Total images found: {len(images_masterlist)}") 
+    
+    if len(colors_masterlist) != 0 and no_colors != 0:
+        print(f"{len(colors_masterlist)} colors detected, {no_colors} not.\n")
+
+    if len(fonts_dict) != 0:
+        print(f"Fonts tally: {fonts_dict}\n")
+    # print(f"Fonts master: {font_masterlist}\n")
+    if len(colors_dict) != 0:
+        print(f"Color schemes tally: {colors_dict}\n")
+    
+    if len(text_masterlist) != 0:
+        print(f"Consolidated text: {text_masterlist}")
+
 main()

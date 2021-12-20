@@ -7,5 +7,3 @@ setuptools.setup(
     entry_points={'console_scripts': "scraper=scraper.cli:cli"} #alias scraper
 
 )
-
-# entry points
