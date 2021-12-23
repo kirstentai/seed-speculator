@@ -26,10 +26,7 @@ def main():
         output = "Num: {} | Name: {} | Amount: {} | Round: {} | Industries: {}".format(start_num, startup_name, startup_amt,
                                                                                         startup_round, industries_list)
         print(output)
-        # output_dict = output_results(master_dict, start_num, startup_amt, startup_round, industries_list)
         output_results(master_dict, start_num, startup_amt, startup_round, industries_list)
-        # print(output_dict)
-        # master_list.append(output_dict)
         
         write_results("output.json", master_dict)
         start_num += 1
