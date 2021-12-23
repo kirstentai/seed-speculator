@@ -1,8 +1,0 @@
-5801,Simplifimed,$125K,https://dl.airtable.com/.attachments/d84ad61c88eda994594765ea57e91071/3f688a0a/simplifimeddeck.pdf
-5802,Simpliroute,$225K,https://dl.airtable.com/.attachments/8b8f14b2eb7ba4bd285ac8c075187f28/a04a4bbc/simpliroutedeck.pdf
-5803,SimplyInsight (formerly Uplette),Undisclosed,None
-5804,Sira Medical,Undisclosed,https://dl.airtable.com/.attachments/c4b958f15d7f168d1b7bb5e25bf466fa/37fccffe/siramedicalpitchdeck.pdf
-5805,Siren Care,$100K,https://dl.airtable.com/.attachments/33b7c4704b90d10b52946ba3aece3693/991c0aec/sirencaredeck.pdf
-5806,Skeyecode,€71.4K,https://dl.airtable.com/.attachments/50520f79867b5ff2859cb25f60c0f29c/4a4714ad/skeyecodedeck.pdf
-5807,Skymind,$800M,https://dl.airtable.com/.attachments/0381cdead69455b515e9874bec247b03/6535b82b/skyminddeck.pdf
-5808,Slidebean,$35K,https://dl.airtable.com/.attachments/7189370fb80c32038cc68615c96e0967/4a550db6/slidebeandeck.pdf
