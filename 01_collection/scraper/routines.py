@@ -10,15 +10,15 @@ def main():
     start_num = 5285
     end_num = 5942
     master_dict = {}
-    # master_list = []
+    filename = "output.json"
 
     while start_num <= end_num:
         startup_name = get_name(start_num)
         startup_amt = get_amount(start_num)
-        # startup_link = get_pdflink(start_num)
         startup_round = get_round(start_num)
         industries_list = get_industries(start_num)
 
+        # startup_link = get_pdflink(start_num)
         # if startup_link == None:
         #     nopdf_link += 1
         #     print("No link: {}".format(nopdf_link))
@@ -28,7 +28,7 @@ def main():
         print(output)
         output_results(master_dict, start_num, startup_amt, startup_round, industries_list)
         
-        write_results("output.json", master_dict)
+        write_results(filename, master_dict)
         start_num += 1
 
 
