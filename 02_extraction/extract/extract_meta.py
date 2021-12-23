@@ -33,8 +33,6 @@ def main():
         font_masterlist = []
         for current_page in range(page_count):
             page = extract_text_page(file_path, current_page)
-            # print(f"Page {current_page + 1}/{page_count}: {page}")
-                # print(f"Page {current_page + 1}/{page_count}: Text detected")
             text_masterlist.append(str(page))
 
             list_of_images = extract_download_image(file_no, doc, current_page)
@@ -137,8 +135,8 @@ def extract_image_color(filename):
     _, counts = np.unique(labels, return_counts=True)
 
     dominant = palette[np.argmax(counts)]
-    # print(f"dominant color: {dominant}")
     return dominant
+
 
 def get_dominant_color(pil_img, palette_size=16):
     # Resize image to speed up processing
@@ -175,7 +173,6 @@ def consolidate_colors(image_list):
 
 def tally_list(list):
     tally_dict = {str(unique_item):list.count(unique_item) for unique_item in list}
-    # sorted_dict = sorted(list(tally_dict), key=lambda x:x[var])
     return tally_dict
     
 
@@ -197,7 +194,7 @@ def print_results(file_no, page_count, images_masterlist, colors_masterlist, no_
 
     if len(fonts_dict) != 0:
         print(f"Fonts tally: {fonts_dict}\n")
-    # print(f"Fonts master: {font_masterlist}\n")
+
     if len(colors_dict) != 0:
         print(f"Color schemes tally: {colors_dict}\n")
     

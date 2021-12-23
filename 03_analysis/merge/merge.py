@@ -35,7 +35,6 @@ def list_merged_dict(json_data, json_data_2):
                                 "industries": json_data[i]['industries'], "page_count": json_data_2[i]['page_count'],
                                 "fonts": json_data_2[i]['fonts'], "colors": json_data_2[i]['colors'], "text": json_data_2[i]['text']}
             master_list.append(single_startup)
-            # print(single_startup)
         except:
             print("invalid")
             pass

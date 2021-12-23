@@ -1,4 +1,4 @@
-""" Merges dictionaries from 2 scraping events"""
+""" Sentiment analysis on pdf text"""
 import json
 
 
