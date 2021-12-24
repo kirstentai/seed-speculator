@@ -8,7 +8,7 @@ def main():
     """ start and end bounds: 5285 to 5942 (657 items)"""
     
     start_num = 5285
-    end_num = 5942
+    end_num = 5286
     master_dict = {}
     filename = "output.json"
 

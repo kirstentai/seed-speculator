@@ -1,4 +1,5 @@
 """ This file extracts pdf details."""
+import enum
 import os.path
 import fitz
 import pdfplumber
@@ -13,9 +14,9 @@ from extract.output import write_results
 
 def main():
     file_no = 5285
-    start_number = 5285
-    end_number = 5286 #5941 last
-    while start_number <= file_no <= end_number: 
+    end_number = 5942 #5942 last
+    master_dict = {}
+    while file_no <= end_number: 
 
         try:
             file_path = get_filepath(file_no)
@@ -32,26 +33,39 @@ def main():
         text_masterlist = []
         font_masterlist = []
         for current_page in range(page_count):
+<<<<<<< HEAD
             page = extract_text_page(file_path, current_page)
             text_masterlist.append(str(page))
+=======
+            if extract_text_page(file_path, current_page):
+                page = extract_text_page(file_path, current_page)
+                # print(f"Page {current_page + 1}/{page_count}: Text detected")
+                text_masterlist.append(str(page))
+
+                if page != 'None':
+                    page_font = extract_font(doc, current_page)
+                    font_masterlist = font_masterlist + page_font
+                
+>>>>>>> 8552e2a (01, 02 sections minor modifications)
 
             list_of_images = extract_download_image(file_no, doc, current_page)
             images_masterlist = images_masterlist + list_of_images
-
-            if page is not None:
-                page_font = extract_font(doc, current_page)
-                font_masterlist = font_masterlist + page_font
-        
+                
         # consolidates all dominant colors detected in images, contains repeated inputs
         colors_masterlist, no_colors = consolidate_colors(images_masterlist)
         colors_dict = tally_list(colors_masterlist)
 
         fonts_dict = tally_list(font_masterlist)
-        
-        print_results(file_no, page_count, images_masterlist, colors_masterlist, no_colors, fonts_dict, colors_dict, text_masterlist)
-        output_results(file_no, page_count, fonts_dict, colors_dict, text_masterlist)
-        file_no += 1
+        fonts_list = dict_to_list(fonts_dict)
+        print(f"fonts: {fonts_list}")
 
+        # print_results(file_no, page_count, images_masterlist, colors_masterlist, no_colors, fonts_list, colors_dict, text_masterlist)
+        output_results(master_dict, file_no, page_count, fonts_list, colors_dict, text_masterlist)
+        write_results("02_output.json", master_dict)
+        file_no += 1
+    
+    
+    # print(f"master: {master_dict}")
 
 def get_filepath(file_number):
     current_directory = os.path.dirname(__file__)
@@ -102,7 +116,10 @@ def extract_download_image(startup_number, document, page_number):
         image = Image.open(io.BytesIO(image_bytes))
         # save it to local disk
         image_filename = f"{startup_number}_img{page_number+1}.{image_index}.{image_ext}"
-        image_path = 'images/' + image_filename
+        current_directory = os.path.dirname(__file__)
+        parent_directory = os.path.split(current_directory)[0]
+        image_path = parent_directory + '/images/' + image_filename
+        # print(image_path)
 
         #save image to local
         image.save(open(image_path, "wb"))
@@ -161,10 +178,10 @@ def consolidate_colors(image_list):
     for image in image_list:
         try:
             main_color = extract_image_color(image)
-            print(f"[+] Color detected: {main_color}")
+            # print(f"[+] Color detected: {main_color}")
             colors_masterlist.append(list(main_color))
         except:
-            print("[!] Unable to get color.")
+            # print("[!] Unable to get color.")
             no_color += 1
             pass
 
@@ -174,15 +191,31 @@ def consolidate_colors(image_list):
 def tally_list(list):
     tally_dict = {str(unique_item):list.count(unique_item) for unique_item in list}
     return tally_dict
+
+
+def dict_to_list(fonts_dict):
+    keys_list = []
+    for keys, values in fonts_dict.items():
+        if values > 1:
+            keys_list.append(keys)
+            # print(f"values: {values}")
+    
+    return keys_list
     
 
-def output_results(startup_no, count, fonts, colors, text):
+def output_results(master_dict, startup_no, count, fonts, colors, text):
 
-    startup_dict = {'startup_number': startup_no, 'page_count': count, 'fonts': fonts, 'colors': colors, 'text': text}
-    write_results("output.json", startup_dict)
+    # startup_dict = {'startup_number': startup_no, 'page_count': count, 'fonts': fonts, 'colors': colors, 'text': text}
+    master_dict[startup_no] = {}
+    master_dict[startup_no]['page_count'] = count
+    master_dict[startup_no]['fonts'] = fonts
+    master_dict[startup_no]['colors'] = colors
+    master_dict[startup_no]['text'] = text
+    # print("Master_dict updated.")
+    # return master_dict
 
 
-def print_results(file_no, page_count, images_masterlist, colors_masterlist, no_colors, fonts_dict, colors_dict, text_masterlist):
+def print_results(file_no, page_count, images_masterlist, colors_masterlist, no_colors, fonts_list, colors_dict, text_masterlist):
     print(f"====== Summary: {file_no} ======")
     print(f"Page count: {page_count}") if page_count else print("No PDF detected.")
 
@@ -192,13 +225,20 @@ def print_results(file_no, page_count, images_masterlist, colors_masterlist, no_
     if len(colors_masterlist) != 0 and no_colors != 0:
         print(f"{len(colors_masterlist)} colors detected, {no_colors} not.\n")
 
+<<<<<<< HEAD
     if len(fonts_dict) != 0:
         print(f"Fonts tally: {fonts_dict}\n")
+=======
+    if len(fonts_list) != 0:
+        print(f"Fonts: {fonts_list}\n")
+>>>>>>> 8552e2a (01, 02 sections minor modifications)
 
     if len(colors_dict) != 0:
-        print(f"Color schemes tally: {colors_dict}\n")
+        print(f"Colors: {colors_dict}\n")
     
     if len(text_masterlist) != 0:
-        print(f"Consolidated text: {text_masterlist}")
+        print(f"Consolidated text.")
 
-main()
+
+# main()
+
