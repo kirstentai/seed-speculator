@@ -35,11 +35,15 @@ def main():
         for current_page in range(page_count):
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             page = extract_text_page(file_path, current_page)
             text_masterlist.append(str(page))
 =======
 =======
 >>>>>>> 8552e2a (01, 02 sections minor modifications)
+=======
+<<<<<<< HEAD:02_extraction/extract/routines.py
+>>>>>>> eff91e0 (up to date before nlp)
             if extract_text_page(file_path, current_page):
                 page = extract_text_page(file_path, current_page)
                 # print(f"Page {current_page + 1}/{page_count}: Text detected")
@@ -50,9 +54,16 @@ def main():
                     font_masterlist = font_masterlist + page_font
                 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 8552e2a (01, 02 sections minor modifications)
 =======
 >>>>>>> 8552e2a (01, 02 sections minor modifications)
+=======
+=======
+            page = extract_text_page(file_path, current_page)
+            text_masterlist.append(str(page))
+>>>>>>> 1580347 (working and finished merge, start of nlp):02_extraction/extract/extract_meta.py
+>>>>>>> eff91e0 (up to date before nlp)
 
             list_of_images = extract_download_image(file_no, doc, current_page)
             images_masterlist = images_masterlist + list_of_images
@@ -233,6 +244,7 @@ def print_results(file_no, page_count, images_masterlist, colors_masterlist, no_
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     if len(fonts_dict) != 0:
         print(f"Fonts tally: {fonts_dict}\n")
 =======
@@ -243,6 +255,15 @@ def print_results(file_no, page_count, images_masterlist, colors_masterlist, no_
     if len(fonts_list) != 0:
         print(f"Fonts: {fonts_list}\n")
 >>>>>>> 8552e2a (01, 02 sections minor modifications)
+=======
+<<<<<<< HEAD:02_extraction/extract/routines.py
+    if len(fonts_list) != 0:
+        print(f"Fonts: {fonts_list}\n")
+=======
+    if len(fonts_dict) != 0:
+        print(f"Fonts tally: {fonts_dict}\n")
+>>>>>>> 1580347 (working and finished merge, start of nlp):02_extraction/extract/extract_meta.py
+>>>>>>> eff91e0 (up to date before nlp)
 
     if len(colors_dict) != 0:
         print(f"Colors: {colors_dict}\n")
