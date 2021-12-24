@@ -1,0 +1,6175 @@
+{
+  "5285": {
+    "amount": "$20M",
+    "round": "Series A",
+    "industries": [
+      "Enterprise Software",
+      "HR",
+      "Personal Finance",
+      "Employee Benefits",
+      "FinTech"
+    ]
+  },
+  "5286": {
+    "amount": "$125K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Enterprise Software",
+      "HR",
+      "Training",
+      "SaaS",
+      "Gamification"
+    ]
+  },
+  "5287": {
+    "amount": "$3.4M",
+    "round": "Seed",
+    "industries": [
+      "Logistics",
+      "AI",
+      "Supply Chain Management"
+    ]
+  },
+  "5288": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Marketplace",
+      "E-commerce",
+      "Gift"
+    ]
+  },
+  "5289": {
+    "amount": "$18M",
+    "round": "Later Stage",
+    "industries": [
+      "Personal Health",
+      "Cannabis",
+      "Consumer"
+    ]
+  },
+  "5290": {
+    "amount": "$25K",
+    "round": "Seed",
+    "industries": [
+      "Fashion",
+      "Software",
+      "E-commerce"
+    ]
+  },
+  "5291": {
+    "amount": "$1.7M",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "Software",
+      "HR"
+    ]
+  },
+  "5292": {
+    "amount": "$2.2M",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "Marketplace",
+      "EdTech",
+      "Family"
+    ]
+  },
+  "5293": {
+    "amount": "$632K",
+    "round": "Angel Round",
+    "industries": [
+      "Apps",
+      "Advertising"
+    ]
+  },
+  "5294": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Travel",
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  "5295": {
+    "amount": "R$1.2M",
+    "round": "Angel Round",
+    "industries": [
+      "Internet",
+      "Loyalty Programs",
+      "Retail",
+      "IT",
+      "Retail Technology",
+      "Customer Service",
+      "SaaS",
+      "E-commerce"
+    ]
+  },
+  "5296": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Food and Beverage",
+      "AgTech",
+      "Agriculture"
+    ]
+  },
+  "5297": {
+    "amount": "$600K",
+    "round": "Seed",
+    "industries": [
+      "Travel",
+      "Hospitality",
+      "Marketplace"
+    ]
+  },
+  "5298": {
+    "amount": "$800K",
+    "round": "Seed",
+    "industries": [
+      "Call Center",
+      "CRM",
+      "SaaS"
+    ]
+  },
+  "5299": {
+    "amount": "$28M",
+    "round": "Series A",
+    "industries": [
+      "Health Insurance",
+      "Healthcare"
+    ]
+  },
+  "5300": {
+    "amount": "Undisclosed",
+    "round": "Series A",
+    "industries": [
+      "Service Industry",
+      "Marketplace",
+      "Consumer"
+    ]
+  },
+  "5301": {
+    "amount": "$125K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Mobile Apps",
+      "Finance",
+      "Financial Services"
+    ]
+  },
+  "5302": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Apps",
+      "IoT",
+      "Smart Home"
+    ]
+  },
+  "5303": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Financial Services",
+      "Finance",
+      "FinTech"
+    ]
+  },
+  "5304": {
+    "amount": "$10M",
+    "round": "Seed",
+    "industries": [
+      "Finance",
+      "FinTech",
+      "Blockchain"
+    ]
+  },
+  "5305": {
+    "amount": "$100K",
+    "round": "Debt Financing",
+    "industries": [
+      "Education",
+      "Professional Networking",
+      "Alumni"
+    ]
+  },
+  "5306": {
+    "amount": "$2M",
+    "round": "Seed",
+    "industries": [
+      "Productivity Tools",
+      "Collaboration"
+    ]
+  },
+  "5307": {
+    "amount": "$3.5M",
+    "round": "Series A",
+    "industries": [
+      "Cosmetics",
+      "E-commerce",
+      "Beauty"
+    ]
+  },
+  "5308": {
+    "amount": "$6M",
+    "round": "Series A",
+    "industries": [
+      "Medical",
+      "Pharmaceutical",
+      "E-commerce",
+      "Healthcare"
+    ]
+  },
+  "5309": {
+    "amount": "$1.3M",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Social Media",
+      "Software"
+    ]
+  },
+  "5310": {
+    "amount": "$5.3M",
+    "round": "Seed",
+    "industries": [
+      "Machine Learning",
+      "AI",
+      "Advertising"
+    ]
+  },
+  "5311": {
+    "amount": "$5.8M",
+    "round": "Series A",
+    "industries": [
+      "Retail",
+      "E-commerce",
+      "Advertising"
+    ]
+  },
+  "5312": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "IT Management",
+      "Enterprise Software",
+      "SaaS"
+    ]
+  },
+  "5313": {
+    "amount": "$325K",
+    "round": "Pre-Seed",
+    "industries": [
+      "AI",
+      "Healthcare",
+      "Virtual Reality"
+    ]
+  },
+  "5314": {
+    "amount": "$299.6K",
+    "round": "Undisclosed",
+    "industries": [
+      "Mobile Apps",
+      "Cloud Security",
+      "Smart Home"
+    ]
+  },
+  "5315": {
+    "amount": "$20K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Android",
+      "Enterprise Software"
+    ]
+  },
+  "5316": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Billing",
+      "Payments",
+      "SaaS"
+    ]
+  },
+  "5317": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "SaaS",
+      "Ad Network",
+      "Advertising"
+    ]
+  },
+  "5318": {
+    "amount": "$1.3M",
+    "round": "Seed",
+    "industries": [
+      "Food and Beverage",
+      "E-commerce",
+      "Logistics"
+    ]
+  },
+  "5319": {
+    "amount": "$1.46M",
+    "round": "Series A",
+    "industries": [
+      "Analytics",
+      "Apps",
+      "Big Data"
+    ]
+  },
+  "5320": {
+    "amount": "$465K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Apps",
+      "Developer Tools",
+      "SaaS"
+    ]
+  },
+  "5321": {
+    "amount": "\u20ac6M",
+    "round": "Series A",
+    "industries": [
+      "AI",
+      "Healthcare"
+    ]
+  },
+  "5322": {
+    "amount": "$1M",
+    "round": "Pre-Seed",
+    "industries": [
+      "Analytics",
+      "AI",
+      "E-commerce",
+      "Big Data"
+    ]
+  },
+  "5323": {
+    "amount": "$10M",
+    "round": "Series A",
+    "industries": [
+      "Enterprise Software",
+      "Big Data",
+      "Database"
+    ]
+  },
+  "5324": {
+    "amount": "$3M",
+    "round": "Seed",
+    "industries": [
+      "Financial Services",
+      "FinTech",
+      "Mobile Payments"
+    ]
+  },
+  "5325": {
+    "amount": "$200K",
+    "round": "Seed",
+    "industries": [
+      "Retail",
+      "Marketplace",
+      "Art"
+    ]
+  },
+  "5326": {
+    "amount": "$15M",
+    "round": "Series A",
+    "industries": [
+      "Software",
+      "Big Data"
+    ]
+  },
+  "5327": {
+    "amount": "$1.1M",
+    "round": "Seed",
+    "industries": [
+      "Manufacturing",
+      "3D Technology",
+      "Cloud Infrastructure",
+      "3D Printing",
+      "Operating Systems",
+      "Developer Platform"
+    ]
+  },
+  "5328": {
+    "amount": "$713K",
+    "round": "Seed",
+    "industries": [
+      "Machine Learning",
+      "Speech Recognition",
+      "Human Computer Interaction"
+    ]
+  },
+  "5329": {
+    "amount": "$6M",
+    "round": "Seed",
+    "industries": [
+      "Machine Learning",
+      "AI",
+      "Healthcare"
+    ]
+  },
+  "5330": {
+    "amount": "$350K",
+    "round": "Angel Round",
+    "industries": [
+      "Software",
+      "Sales Automation",
+      "SaaS"
+    ]
+  },
+  "5331": {
+    "amount": "$120K",
+    "round": "Seed",
+    "industries": [
+      "Medical",
+      "Healthcare",
+      "Manufacturing"
+    ]
+  },
+  "5332": {
+    "amount": "$600K",
+    "round": "Seed",
+    "industries": [
+      "Robotics",
+      "Enterprise Software",
+      "Logistics",
+      "Drone Management",
+      "Air Transportation"
+    ]
+  },
+  "5333": {
+    "amount": "$725K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Collaboration",
+      "Art",
+      "Graphic Design"
+    ]
+  },
+  "5334": {
+    "amount": "$36M",
+    "round": "Series C",
+    "industries": [
+      "Cloud Security",
+      "Cyber Security",
+      "Network Security"
+    ]
+  },
+  "5335": {
+    "amount": "$2.5M",
+    "round": "Seed",
+    "industries": [
+      "Cannabis",
+      "CBD"
+    ]
+  },
+  "5336": {
+    "amount": "$2M",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "Software",
+      "EdTech",
+      "E-learning"
+    ]
+  },
+  "5337": {
+    "amount": "$760K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Health Diagnostics",
+      "Fitness",
+      "Healthcare"
+    ]
+  },
+  "5338": {
+    "amount": "$650K",
+    "round": "Seed",
+    "industries": [
+      "Parenting",
+      "Software",
+      "E-commerce",
+      "Baby"
+    ]
+  },
+  "5339": {
+    "amount": "$1.8M",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Accounting",
+      "FinTech",
+      "Consulting"
+    ]
+  },
+  "5340": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Small and Medium Businesses",
+      "Accounting",
+      "Financial Services"
+    ]
+  },
+  "5341": {
+    "amount": "$1.6M",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Cannabis",
+      "CRM"
+    ]
+  },
+  "5342": {
+    "amount": "$1.4M",
+    "round": "Undisclosed",
+    "industries": [
+      "Home Decor",
+      "Retail",
+      "E-commerce"
+    ]
+  },
+  "5343": {
+    "amount": "$2.4M",
+    "round": "Seed",
+    "industries": [
+      "Music Streaming",
+      "Enterprise Software",
+      "Music",
+      "Blockchain"
+    ]
+  },
+  "5344": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "Beauty",
+      "Scheduling"
+    ]
+  },
+  "5345": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Email Marketing",
+      "Marketing Automation",
+      "E-commerce"
+    ]
+  },
+  "5346": {
+    "amount": "$2.5M",
+    "round": "Seed",
+    "industries": [
+      "Machine Learning",
+      "AI"
+    ]
+  },
+  "5347": {
+    "amount": "$1.65M",
+    "round": "Seed",
+    "industries": [
+      "Sales Automation",
+      "Health Insurance",
+      "Healthcare"
+    ]
+  },
+  "5348": {
+    "amount": "$1.5M",
+    "round": "Seed",
+    "industries": [
+      "Apps",
+      "Delivery",
+      "E-commerce"
+    ]
+  },
+  "5349": {
+    "amount": "$1.5M",
+    "round": "Undisclosed",
+    "industries": [
+      "Auctions",
+      "E-commerce"
+    ]
+  },
+  "5350": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Enterprise Software",
+      "SaaS",
+      "FinTech",
+      "Blockchain"
+    ]
+  },
+  "5351": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Billing",
+      "Payments",
+      "Financial Services"
+    ]
+  },
+  "5352": {
+    "amount": "$60M",
+    "round": "Series A",
+    "industries": [
+      "Employee Benefits",
+      "Health Insurance",
+      "Healthcare"
+    ]
+  },
+  "5353": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Commercial",
+      "Marketplace",
+      "Mobile Apps",
+      "Open Source"
+    ]
+  },
+  "5354": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Data Visualization",
+      "Social Media",
+      "Software"
+    ]
+  },
+  "5355": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Nutrition",
+      "B2B",
+      "Fitness",
+      "Healthcare"
+    ]
+  },
+  "5356": {
+    "amount": "\u20ac21M",
+    "round": "Undisclosed",
+    "industries": [
+      "Travel",
+      "Transportation",
+      "Car Sharing",
+      "Collaborative Consumption",
+      "Ride Sharing"
+    ]
+  },
+  "5357": {
+    "amount": "CA$1M",
+    "round": "Pre-Seed",
+    "industries": [
+      "Sales Automation",
+      "Business Intelligence",
+      "Enterprise Application",
+      "Enterprise Software"
+    ]
+  },
+  "5358": {
+    "amount": "$750K",
+    "round": "Seed",
+    "industries": [
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "SaaS"
+    ]
+  },
+  "5359": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Broadcasting",
+      "EdTech",
+      "Media and Entertainment"
+    ]
+  },
+  "5360": {
+    "amount": "$1.2M",
+    "round": "Pre-Seed",
+    "industries": [
+      "Broadcasting",
+      "Content",
+      "Media and Entertainment"
+    ]
+  },
+  "5361": {
+    "amount": "$9.3M",
+    "round": "Series A",
+    "industries": [
+      "Enterprise Software",
+      "Leisure",
+      "HR"
+    ]
+  },
+  "5362": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Social Media",
+      "Marketing",
+      "Mobile Apps",
+      "SaaS",
+      "Video"
+    ]
+  },
+  "5363": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "E-commerce",
+      "Music",
+      "Lifestyle"
+    ]
+  },
+  "5364": {
+    "amount": "JPY150M",
+    "round": "Undisclosed",
+    "industries": [
+      "Medical",
+      "Healthcare"
+    ]
+  },
+  "5365": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Hospitality",
+      "Marketplace",
+      "SaaS"
+    ]
+  },
+  "5366": {
+    "amount": "$100K",
+    "round": "Angel Round",
+    "industries": [
+      "Social Recruiting",
+      "Recruiting",
+      "HR"
+    ]
+  },
+  "5367": {
+    "amount": "$2.5M",
+    "round": "Seed",
+    "industries": [
+      "Apps",
+      "E-commerce",
+      "Shopping"
+    ]
+  },
+  "5368": {
+    "amount": "$150K",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "Product Design",
+      "Developer Tools"
+    ]
+  },
+  "5369": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Apps",
+      "Software"
+    ]
+  },
+  "5370": {
+    "amount": "$725K",
+    "round": "Seed",
+    "industries": [
+      "Logistics",
+      "Supply Chain Management",
+      "E-commerce"
+    ]
+  },
+  "5371": {
+    "amount": "$400K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Security",
+      "Cyber Security"
+    ]
+  },
+  "5372": {
+    "amount": "$255K",
+    "round": "Seed",
+    "industries": [
+      "Food and Beverage",
+      "Delivery",
+      "E-commerce",
+      "Craft Beer"
+    ]
+  },
+  "5373": {
+    "amount": "$50M",
+    "round": "Series B",
+    "industries": [
+      "Financial Services",
+      "Accounting",
+      "Banking",
+      "FinTech"
+    ]
+  },
+  "5374": {
+    "amount": "$800K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Professional Services",
+      "Legal"
+    ]
+  },
+  "5375": {
+    "amount": "$16.7M",
+    "round": "Series C",
+    "industries": [
+      "AI",
+      "mHealth",
+      "Healthcare"
+    ]
+  },
+  "5376": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Apps",
+      "Non Profit",
+      "Charity",
+      "PaaS"
+    ]
+  },
+  "5377": {
+    "amount": "$450K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Apps",
+      "Social Media"
+    ]
+  },
+  "5378": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Construction",
+      "Project Management",
+      "SaaS"
+    ]
+  },
+  "5379": {
+    "amount": "$2M",
+    "round": "Series A",
+    "industries": [
+      "Mobile Apps",
+      "Telecommunications",
+      "IOS",
+      "Contact Management"
+    ]
+  },
+  "5380": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Data Visualization",
+      "Software",
+      "AI",
+      "Smart Home",
+      "Retail Technology"
+    ]
+  },
+  "5381": {
+    "amount": "$3.5M",
+    "round": "Series A",
+    "industries": [
+      "Digital Entertainment",
+      "Advertising",
+      "News"
+    ]
+  },
+  "5382": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Software",
+      "AI",
+      "Database",
+      "Human Computer Interaction"
+    ]
+  },
+  "5383": {
+    "amount": "$4M",
+    "round": "Seed",
+    "industries": [
+      "Credit",
+      "Blockchain",
+      "Finance",
+      "Funding Platform",
+      "FinTech"
+    ]
+  },
+  "5384": {
+    "amount": "$6.5M",
+    "round": "Series A",
+    "industries": [
+      "Cannabis",
+      "Flowers",
+      "Consumer Goods"
+    ]
+  },
+  "5385": {
+    "amount": "$1.6M",
+    "round": "Seed",
+    "industries": [
+      "Machine Learning",
+      "AI",
+      "Customer Service"
+    ]
+  },
+  "5386": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Finance",
+      "Subscription Services",
+      "SaaS"
+    ]
+  },
+  "5387": {
+    "amount": "$1.7M",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "Child Care"
+    ]
+  },
+  "5388": {
+    "amount": "$7M",
+    "round": "Series A",
+    "industries": [
+      "Stock Exchanges",
+      "Finance",
+      "FinTech"
+    ]
+  },
+  "5389": {
+    "amount": "$270K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Property Management",
+      "Real Estate"
+    ]
+  },
+  "5390": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Apps",
+      "Social Network"
+    ]
+  },
+  "5391": {
+    "amount": "$13M",
+    "round": "Series A",
+    "industries": [
+      "Billing",
+      "Payments",
+      "FinTech",
+      "Healthcare"
+    ]
+  },
+  "5392": {
+    "amount": "$2.1M",
+    "round": "Seed",
+    "industries": [
+      "FinTech",
+      "Blockchain"
+    ]
+  },
+  "5393": {
+    "amount": "$225K",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "Legal Tech",
+      "IT",
+      "Legal",
+      "Mobile Apps"
+    ]
+  },
+  "5394": {
+    "amount": "Euro312K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Software",
+      "CAD",
+      "Simulation",
+      "IT",
+      "Industrial Engineering"
+    ]
+  },
+  "5395": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Payments",
+      "Financial Services",
+      "FinTech",
+      "Mobile Payments"
+    ]
+  },
+  "5396": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Messaging",
+      "Real Time",
+      "Software"
+    ]
+  },
+  "5397": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Professional Services",
+      "Language Learning"
+    ]
+  },
+  "5398": {
+    "amount": "$1.2M",
+    "round": "Undisclosed",
+    "industries": [
+      "Payments",
+      "Internet"
+    ]
+  },
+  "5399": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Cooking",
+      "Professional Services"
+    ]
+  },
+  "5400": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Delivery",
+      "Food Delivery"
+    ]
+  },
+  "5401": {
+    "amount": "$30M",
+    "round": "Series B",
+    "industries": [
+      "Mobile Payments",
+      "Financial Services",
+      "Mobile Apps",
+      "Payments",
+      "FinTech"
+    ]
+  },
+  "5402": {
+    "amount": "$460K",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "Security",
+      "Identity Management"
+    ]
+  },
+  "5403": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Fashion",
+      "Software",
+      "Lifestyle"
+    ]
+  },
+  "5404": {
+    "amount": "$1.3M",
+    "round": "Seed",
+    "industries": [
+      "Travel",
+      "Legal"
+    ]
+  },
+  "5405": {
+    "amount": "$1.2M",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "EdTech",
+      "HR"
+    ]
+  },
+  "5406": {
+    "amount": "$1.1M",
+    "round": "Undisclosed",
+    "industries": [
+      "Social Media Marketing",
+      "Email Marketing",
+      "Marketplace"
+    ]
+  },
+  "5407": {
+    "amount": "$70M",
+    "round": "Series A",
+    "industries": [
+      "Financial Services",
+      "E-commerce",
+      "FinTech"
+    ]
+  },
+  "5408": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "EdTech",
+      "Enterprise Software",
+      "Education",
+      "IT",
+      "Trading Platform",
+      "SaaS",
+      "Corporate Training"
+    ]
+  },
+  "5409": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Security",
+      "IoT",
+      "IT",
+      "Virtual Reality"
+    ]
+  },
+  "5410": {
+    "amount": "$25M",
+    "round": "Series C",
+    "industries": [
+      "Analytics",
+      "AI",
+      "Enterprise Software",
+      "Big Data",
+      "Cloud Computing",
+      "Cloud Data Services",
+      "Cloud Management",
+      "Open Source",
+      "Machine Learning",
+      "Cloud Infrastructure"
+    ]
+  },
+  "5411": {
+    "amount": "$9M",
+    "round": "Series A",
+    "industries": [
+      "Analytics",
+      "Data Storage",
+      "Big Data",
+      "Cloud Infrastructure"
+    ]
+  },
+  "5412": {
+    "amount": "$1.1M",
+    "round": "Seed",
+    "industries": [
+      "Messaging",
+      "Apps",
+      "Communication Infustructure",
+      "Mobile Apps",
+      "Android",
+      "IOS"
+    ]
+  },
+  "5413": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "E-commerce",
+      "Marketplace",
+      "Career Planning"
+    ]
+  },
+  "5414": {
+    "amount": "\u00a32M",
+    "round": "Seed",
+    "industries": [
+      "Content Marketing",
+      "SaaS",
+      "Big Data"
+    ]
+  },
+  "5415": {
+    "amount": "$1.1M",
+    "round": "Seed",
+    "industries": [
+      "AI",
+      "Bitcoin",
+      "Big Data"
+    ]
+  },
+  "5416": {
+    "amount": "$600K",
+    "round": "Seed",
+    "industries": [
+      "Cryptocurrency",
+      "FinTech",
+      "Blockchain"
+    ]
+  },
+  "5417": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Payments",
+      "Business Development",
+      "Bitcoin",
+      "Service Industry"
+    ]
+  },
+  "5418": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Concerts",
+      "Events",
+      "Music",
+      "Ticketing"
+    ]
+  },
+  "5419": {
+    "amount": "$200K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Financial Services",
+      "FinTech"
+    ]
+  },
+  "5420": {
+    "amount": "$515K",
+    "round": "Undisclosed",
+    "industries": [
+      "Mobile Apps",
+      "Apps",
+      "Social Media",
+      "Internet"
+    ]
+  },
+  "5421": {
+    "amount": "$3M",
+    "round": "Debt Financing",
+    "industries": [
+      "Software",
+      "Email",
+      "CRM",
+      "PaaS",
+      "SaaS"
+    ]
+  },
+  "5422": {
+    "amount": "$9M",
+    "round": "Series B",
+    "industries": [
+      "Analytics",
+      "Content",
+      "Advertising",
+      "Digital Media"
+    ]
+  },
+  "5423": {
+    "amount": "$300K",
+    "round": "Angel Round",
+    "industries": [
+      "Analytics",
+      "Content Marketing",
+      "Content Discovery"
+    ]
+  },
+  "5424": {
+    "amount": "$425K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Employee Benefits",
+      "HR",
+      "SaaS"
+    ]
+  },
+  "5425": {
+    "amount": "$2M",
+    "round": "Seed",
+    "industries": [
+      "Food and Beverage",
+      "Coffee",
+      "Agriculture"
+    ]
+  },
+  "5426": {
+    "amount": "$6M",
+    "round": "Series A",
+    "industries": [
+      "Messaging",
+      "Software",
+      "IT",
+      "Legal",
+      "Consulting",
+      "Mobile Apps",
+      "Marketplace",
+      "Consumer"
+    ]
+  },
+  "5427": {
+    "amount": "$1.1M",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "Internet",
+      "Career Planning",
+      "HR"
+    ]
+  },
+  "5428": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Mobile Payments",
+      "Coffee",
+      "Loyalty Programs"
+    ]
+  },
+  "5429": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "Coworking",
+      "B2B",
+      "Productivity Tools"
+    ]
+  },
+  "5430": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Analytics",
+      "Content",
+      "Internet"
+    ]
+  },
+  "5431": {
+    "amount": "$25M",
+    "round": "Series B",
+    "industries": [
+      "Analytics",
+      "Business Development",
+      "Collaboration"
+    ]
+  },
+  "5432": {
+    "amount": "$200K",
+    "round": "Seed",
+    "industries": [
+      "Crowdsourcing",
+      "Software",
+      "Enterprise Software"
+    ]
+  },
+  "5433": {
+    "amount": "$3M",
+    "round": "Series A",
+    "industries": [
+      "B2B",
+      "Supply Chain Management",
+      "Blockchain",
+      "Predictive Analytics",
+      "FinTech"
+    ]
+  },
+  "5434": {
+    "amount": "$6.5M",
+    "round": "Series A",
+    "industries": [
+      "Analytics",
+      "Business Intelligence",
+      "Big Data"
+    ]
+  },
+  "5435": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Asset Management",
+      "FinTech",
+      "Cryptocurrency"
+    ]
+  },
+  "5436": {
+    "amount": "$6.5M",
+    "round": "Series A",
+    "industries": [
+      "Education",
+      "Apps",
+      "Browser Extension",
+      "Language Learning"
+    ]
+  },
+  "5437": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "E-commerce",
+      "Coupons"
+    ]
+  },
+  "5438": {
+    "amount": "Undisclosed",
+    "round": "Undisclosed",
+    "industries": [
+      "E-commerce",
+      "Consumer",
+      "Cosmetics",
+      "Shopping"
+    ]
+  },
+  "5439": {
+    "amount": "$9M",
+    "round": "Series A",
+    "industries": [
+      "Apps",
+      "Digital Media"
+    ]
+  },
+  "5440": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "Apps",
+      "Mobile Apps"
+    ]
+  },
+  "5441": {
+    "amount": "$1.8M",
+    "round": "Undisclosed",
+    "industries": [
+      "AI",
+      "Biotechnology",
+      "Pharmaceutical"
+    ]
+  },
+  "5442": {
+    "amount": "$600K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Language Learning",
+      "Local"
+    ]
+  },
+  "5443": {
+    "amount": "$5M",
+    "round": "Seed",
+    "industries": [
+      "IT",
+      "Sales",
+      "Enterprise Software"
+    ]
+  },
+  "5444": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "AI",
+      "Supply Chain Management"
+    ]
+  },
+  "5445": {
+    "amount": "$10.3M",
+    "round": "Series A",
+    "industries": [
+      "Marketing",
+      "Consumer Goods",
+      "E-commerce",
+      "Retail"
+    ]
+  },
+  "5446": {
+    "amount": "$1.4M",
+    "round": "Seed",
+    "industries": [
+      "Infrastructure",
+      "AI",
+      "Machine Learning"
+    ]
+  },
+  "5447": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "SaaS",
+      "Cloud Data Services",
+      "Enterprise Application"
+    ]
+  },
+  "5448": {
+    "amount": "$2.9M",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "Theatre",
+      "Ticketing",
+      "Mobile and Entertainment",
+      "E-commerce"
+    ]
+  },
+  "5449": {
+    "amount": "$50K",
+    "round": "Seed",
+    "industries": [
+      "IT",
+      "Healthcare"
+    ]
+  },
+  "5450": {
+    "amount": "$120K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "AI",
+      "Video"
+    ]
+  },
+  "5451": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Travel Accomodation",
+      "Logistics",
+      "Adventure Travel"
+    ]
+  },
+  "5452": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Software",
+      "Enterprise Software",
+      "Cloud Computing",
+      "Asset Management",
+      "SaaS"
+    ]
+  },
+  "5453": {
+    "amount": "$7M",
+    "round": "Seed",
+    "industries": [
+      "Rental Property",
+      "Logistics",
+      "Home Services",
+      "Real Estate"
+    ]
+  },
+  "5454": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Cyber Security",
+      "Cloud Computing",
+      "Cloud Management"
+    ]
+  },
+  "5455": {
+    "amount": "$5M",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "Sales Automation",
+      "Document Management"
+    ]
+  },
+  "5456": {
+    "amount": "$1.5M",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Logistics",
+      "E-commerce",
+      "Developer APIs"
+    ]
+  },
+  "5457": {
+    "amount": "$1.5M",
+    "round": "Seed",
+    "industries": [
+      "Search Engine",
+      "SEO",
+      "Social Media Marketing",
+      "Software"
+    ]
+  },
+  "5458": {
+    "amount": "$15K",
+    "round": "Seed",
+    "industries": [
+      "File Sharing",
+      "Private Cloud",
+      "Collaboration"
+    ]
+  },
+  "5459": {
+    "amount": "$50K",
+    "round": "Seed",
+    "industries": [
+      "Social Media",
+      "Social Media Management",
+      "Customer Service"
+    ]
+  },
+  "5460": {
+    "amount": "$3M",
+    "round": "Seed",
+    "industries": [
+      "Cannabis",
+      "Delivery",
+      "E-commerce"
+    ]
+  },
+  "5461": {
+    "amount": "$2.5M",
+    "round": "Seed",
+    "industries": [
+      "Lending",
+      "Risk Management"
+    ]
+  },
+  "5462": {
+    "amount": "$16.5M",
+    "round": "Series C",
+    "industries": [
+      "Payments",
+      "Accounting",
+      "Banking",
+      "FinTech"
+    ]
+  },
+  "5463": {
+    "amount": "R$4M",
+    "round": "Undisclosed",
+    "industries": [
+      "Education",
+      "Software",
+      "EdTech",
+      "SaaS"
+    ]
+  },
+  "5464": {
+    "amount": "$125K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Mobile Apps",
+      "Language Learning"
+    ]
+  },
+  "5465": {
+    "amount": "$1M",
+    "round": "Series A",
+    "industries": [
+      "Food and Beverage",
+      "Food Processing",
+      "Innovation Management"
+    ]
+  },
+  "5466": {
+    "amount": "$10M",
+    "round": "Series A",
+    "industries": [
+      "Cannabis",
+      "Marketplace",
+      "Consumer"
+    ]
+  },
+  "5467": {
+    "amount": "$1M",
+    "round": "Series B",
+    "industries": [
+      "Facilities Support Services",
+      "E-commerce",
+      "Shopping"
+    ]
+  },
+  "5468": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Enterprise Software",
+      "Big Data",
+      "IT",
+      "Machine Learning",
+      "Telecommunications"
+    ]
+  },
+  "5469": {
+    "amount": "$80K",
+    "round": "Seed",
+    "industries": [
+      "Event Management",
+      "Internet",
+      "Online Portals",
+      "Service Industry"
+    ]
+  },
+  "5470": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Sports",
+      "Social Network",
+      "Genetics"
+    ]
+  },
+  "5471": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "AI",
+      "Healthcare",
+      "Wellness"
+    ]
+  },
+  "5472": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Fashion",
+      "E-commerce"
+    ]
+  },
+  "5473": {
+    "amount": "$30K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Internet",
+      "Marketing"
+    ]
+  },
+  "5474": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Delivery",
+      "Restaurants"
+    ]
+  },
+  "5475": {
+    "amount": "Undisclosed",
+    "round": "Angel Round",
+    "industries": [
+      "Service Industry",
+      "Database"
+    ]
+  },
+  "5476": {
+    "amount": "$1.7M",
+    "round": "Seed",
+    "industries": [
+      "Financial Services",
+      "Personal Finance"
+    ]
+  },
+  "5477": {
+    "amount": "$3.1",
+    "round": "Series A",
+    "industries": [
+      "Simulation",
+      "Recruiting"
+    ]
+  },
+  "5478": {
+    "amount": "$13M",
+    "round": "Series A",
+    "industries": [
+      "Sustainability",
+      "Financial Services",
+      "FinTech",
+      "Database"
+    ]
+  },
+  "5479": {
+    "amount": "$1.12M",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Events",
+      "Big Data",
+      "Mobile Apps",
+      "SaaS",
+      "Event Management"
+    ]
+  },
+  "5480": {
+    "amount": "$50K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Enterprise Software",
+      "Accounting",
+      "SaaS",
+      "Billing"
+    ]
+  },
+  "5481": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Logistics",
+      "B2B",
+      "Supply Chain Management",
+      "Big Data"
+    ]
+  },
+  "5482": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Marketplace",
+      "Farming",
+      "Agriculture"
+    ]
+  },
+  "5483": {
+    "amount": "$13.8B",
+    "round": "Later Stage",
+    "industries": [
+      "Mobile Apps",
+      "Social Media",
+      "Social Network",
+      "Video Streaming"
+    ]
+  },
+  "5484": {
+    "amount": "$500K",
+    "round": "Series A",
+    "industries": [
+      "Analytics",
+      "Software",
+      "Computer Vision",
+      "Machine Learning",
+      "Personalization"
+    ]
+  },
+  "5485": {
+    "amount": "$5M",
+    "round": "Series A",
+    "industries": [
+      "Software",
+      "Manufacturing"
+    ]
+  },
+  "5486": {
+    "amount": "Undisclosed",
+    "round": "Series A",
+    "industries": [
+      "Apps",
+      "Psychology",
+      "Healthcare",
+      "Wellness",
+      "Fitness"
+    ]
+  },
+  "5487": {
+    "amount": "$1.5M",
+    "round": "Seed",
+    "industries": [
+      "Marketing",
+      "Social Network",
+      "Advertising"
+    ]
+  },
+  "5488": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Apps",
+      "Video Chat"
+    ]
+  },
+  "5489": {
+    "amount": "$10M",
+    "round": "Series A",
+    "industries": [
+      "Sports",
+      "Video Streaming",
+      "Media and Entertainment"
+    ]
+  },
+  "5490": {
+    "amount": "$426K",
+    "round": "Seed",
+    "industries": [
+      "Advice",
+      "Financial Services",
+      "Legal"
+    ]
+  },
+  "5491": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "Cooking",
+      "E-learning"
+    ]
+  },
+  "5492": {
+    "amount": "$270K",
+    "round": "Seed",
+    "industries": [
+      "E-commerce",
+      "Music",
+      "Musical Instruments"
+    ]
+  },
+  "5493": {
+    "amount": "$25K",
+    "round": "Seed",
+    "industries": [
+      "Fashion",
+      "Communities",
+      "Beauty",
+      "Lifestyle",
+      "E-commerce"
+    ]
+  },
+  "5494": {
+    "amount": "$120K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Content",
+      "Fitness",
+      "Hardware"
+    ]
+  },
+  "5495": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Financial Services",
+      "AI",
+      "FinTech"
+    ]
+  },
+  "5496": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "IoT",
+      "Wearables",
+      "Automotive"
+    ]
+  },
+  "5497": {
+    "amount": "$3.5M",
+    "round": "Seed",
+    "industries": [
+      "Payments",
+      "Banking",
+      "FinTech"
+    ]
+  },
+  "5498": {
+    "amount": "$102M",
+    "round": "Undisclosed",
+    "industries": [
+      "Financial Services",
+      "Insurance",
+      "FinTech",
+      "Consumer Lending"
+    ]
+  },
+  "5499": {
+    "amount": "$4.5M",
+    "round": "Undisclosed",
+    "industries": [
+      "Apps",
+      "Fitness",
+      "Healthcare"
+    ]
+  },
+  "5500": {
+    "amount": "$2M",
+    "round": "Seed",
+    "industries": [
+      "Fitness",
+      "Healthcare"
+    ]
+  },
+  "5501": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Software",
+      "Apps",
+      "Internet"
+    ]
+  },
+  "5502": {
+    "amount": "$3.4M",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Big Data",
+      "Cloud Data Services"
+    ]
+  },
+  "5503": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "News",
+      "Social Media"
+    ]
+  },
+  "5504": {
+    "amount": "\u20ac1.1M",
+    "round": "Undisclosed",
+    "industries": [
+      "Education",
+      "Marketplace",
+      "Video"
+    ]
+  },
+  "5505": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Apps",
+      "Hospitality",
+      "Nightclub"
+    ]
+  },
+  "5506": {
+    "amount": "$100K",
+    "round": "Undisclosed",
+    "industries": [
+      "Analytics",
+      "AI",
+      "Enterprise Intelliegence",
+      "Enterprise Software",
+      "Social Media Marketing",
+      "Business Development",
+      "Business Intelligence",
+      "Machine Learning",
+      "SaaS"
+    ]
+  },
+  "5507": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Emerging Markets",
+      "Advanced Materials",
+      "Consumer Goods",
+      "Water Purification",
+      "Paper Manufacturing"
+    ]
+  },
+  "5508": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Coaching"
+    ]
+  },
+  "5509": {
+    "amount": "$1.4M",
+    "round": "Series A",
+    "industries": [
+      "Analytics",
+      "Developer Tools",
+      "Advertising"
+    ]
+  },
+  "5510": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "Software",
+      "Email",
+      "Data Mining",
+      "Apps",
+      "IT",
+      "Mobile Apps"
+    ]
+  },
+  "5511": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Transportation"
+    ]
+  },
+  "5512": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps"
+    ]
+  },
+  "5513": {
+    "amount": "$150K",
+    "round": "Undisclosed",
+    "industries": [
+      "Analytics",
+      "Software",
+      "AI",
+      "Cloud Data Services",
+      "Natural Language Processing",
+      "Business Intelligence",
+      "SaaS",
+      "Database"
+    ]
+  },
+  "5514": {
+    "amount": "$10M",
+    "round": "Series A",
+    "industries": [
+      "Apps",
+      "SaaS",
+      "Email",
+      "Collaboration"
+    ]
+  },
+  "5515": {
+    "amount": "$66M",
+    "round": "Series B",
+    "industries": [
+      "Apps",
+      "SaaS",
+      "Email",
+      "Collaboration"
+    ]
+  },
+  "5516": {
+    "amount": "$59M",
+    "round": "Series C",
+    "industries": [
+      "Apps",
+      "SaaS",
+      "Email",
+      "Collaboration"
+    ]
+  },
+  "5517": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Enterprise Resource Planning",
+      "Retail",
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  "5518": {
+    "amount": "\u20ac150K",
+    "round": "Seed",
+    "industries": [
+      "Messaging",
+      "Software",
+      "Education",
+      "Higher Education",
+      "IT"
+    ]
+  },
+  "5519": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Machine Learning",
+      "AI",
+      "Developer APIs"
+    ]
+  },
+  "5520": {
+    "amount": "$10M",
+    "round": "Series A",
+    "industries": [
+      "Cannabis",
+      "Compliance",
+      "Cloud Computing"
+    ]
+  },
+  "5521": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Medical",
+      "Biotechnology",
+      "Medical Device",
+      "Healthcare"
+    ]
+  },
+  "5522": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Internet"
+    ]
+  },
+  "5523": {
+    "amount": "$15M",
+    "round": "Undisclosed",
+    "industries": [
+      "Internet",
+      "Furniture",
+      "Retail",
+      "Consumer Goods",
+      "E-commerce"
+    ]
+  },
+  "5524": {
+    "amount": "$1M",
+    "round": "Undisclosed",
+    "industries": [
+      "E-sport",
+      "Content",
+      "Gaming",
+      "Software"
+    ]
+  },
+  "5525": {
+    "amount": "$3.15M",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Point of Sale",
+      "Mobile Payments",
+      "Oil and Gas"
+    ]
+  },
+  "5526": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Social Media",
+      "Advertising",
+      "Machine Learning"
+    ]
+  },
+  "5527": {
+    "amount": "$1.7M",
+    "round": "Undisclosed",
+    "industries": [
+      "Search Engine",
+      "Auctions",
+      "Local",
+      "Hardware"
+    ]
+  },
+  "5528": {
+    "amount": "\u20ac2.5M",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "AI",
+      "Retail",
+      "Digital Signage",
+      "Machine Learning",
+      "Human Computer Interaction",
+      "IoT"
+    ]
+  },
+  "5529": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "B2B",
+      "Enterprise Software",
+      "Enterprise Application"
+    ]
+  },
+  "5530": {
+    "amount": "$600K",
+    "round": "Seed",
+    "industries": [
+      "Recruiting",
+      "HR"
+    ]
+  },
+  "5531": {
+    "amount": "$500K",
+    "round": "Seed",
+    "industries": [
+      "Staffing Agency",
+      "Recruiting",
+      "HR"
+    ]
+  },
+  "5532": {
+    "amount": "$555K",
+    "round": "Seed",
+    "industries": [
+      "E-commerce",
+      "Collaborative Consumption",
+      "FinTech"
+    ]
+  },
+  "5533": {
+    "amount": "$900K",
+    "round": "Seed",
+    "industries": [
+      "Insurance",
+      "Charity"
+    ]
+  },
+  "5534": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "E-commerce",
+      "Cosmetics"
+    ]
+  },
+  "5535": {
+    "amount": "Undisclosed",
+    "round": "Series A",
+    "industries": [
+      "Fashion",
+      "Communities",
+      "Retail",
+      "Beauty",
+      "Retail Technology"
+    ]
+  },
+  "5536": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Messaging",
+      "Security",
+      "Communication Hardware"
+    ]
+  },
+  "5537": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Blockchain",
+      "Cryptocurrency",
+      "Finance",
+      "Bitcoin",
+      "FinTech"
+    ]
+  },
+  "5538": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Fashion",
+      "Retail",
+      "Shoes"
+    ]
+  },
+  "5539": {
+    "amount": "$105K",
+    "round": "Seed",
+    "industries": [
+      "Financial Services",
+      "Bitcoin",
+      "FinTech"
+    ]
+  },
+  "5540": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Internet Recruiting"
+    ]
+  },
+  "5541": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Machine Learning",
+      "AI",
+      "Computer Vision",
+      "Consulting"
+    ]
+  },
+  "5542": {
+    "amount": "$3.6M",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "AI",
+      "Cloud Management"
+    ]
+  },
+  "5543": {
+    "amount": "$250K",
+    "round": "Series A",
+    "industries": [
+      "CleanTech",
+      "Consumer Goods",
+      "Intellectual Property"
+    ]
+  },
+  "5544": {
+    "amount": "$50K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Apps",
+      "iOS",
+      "Android"
+    ]
+  },
+  "5545": {
+    "amount": "$95K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Enterprise Software",
+      "Big Data"
+    ]
+  },
+  "5546": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Food and Beverage"
+    ]
+  },
+  "5547": {
+    "amount": "$650K",
+    "round": "Seed",
+    "industries": [
+      "CRM",
+      "Enterprise Software",
+      "Healthcare",
+      "Fitness"
+    ]
+  },
+  "5548": {
+    "amount": "CA$3.5M",
+    "round": "Seed",
+    "industries": [
+      "Training",
+      "Wearables",
+      "Fitness"
+    ]
+  },
+  "5549": {
+    "amount": "$2M",
+    "round": "Seed",
+    "industries": [
+      "Home and Garden",
+      "Real Estate"
+    ]
+  },
+  "5550": {
+    "amount": "$30K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Dating",
+      "Social Network",
+      "Mobile Apps"
+    ]
+  },
+  "5551": {
+    "amount": "$1.8M",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Travel",
+      "Marketplace"
+    ]
+  },
+  "5552": {
+    "amount": "$1.4M",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Cannabis",
+      "Big Data"
+    ]
+  },
+  "5553": {
+    "amount": "$1.5M",
+    "round": "Seed",
+    "industries": [
+      "Personal Health",
+      "Apps",
+      "Healthcare"
+    ]
+  },
+  "5554": {
+    "amount": "$3M",
+    "round": "Series A",
+    "industries": [
+      "Medical",
+      "Hospital",
+      "Healthcare"
+    ]
+  },
+  "5555": {
+    "amount": "$10M",
+    "round": "Series A",
+    "industries": [
+      "Medical",
+      "AI",
+      "Biotechnology"
+    ]
+  },
+  "5556": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Video Streaming",
+      "eSports",
+      "Online Games"
+    ]
+  },
+  "5557": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "B2B",
+      "AgTech",
+      "Agriculture"
+    ]
+  },
+  "5558": {
+    "amount": "$2M",
+    "round": "Seed",
+    "industries": [
+      "Messaging",
+      "AI",
+      "E-commerce"
+    ]
+  },
+  "5559": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "Non Profit",
+      "IoT"
+    ]
+  },
+  "5560": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Pet",
+      "Travel",
+      "Consumer Goods",
+      "Online Portals"
+    ]
+  },
+  "5561": {
+    "amount": "$4.6M",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "Content",
+      "Publishing"
+    ]
+  },
+  "5562": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Rental Property",
+      "Real Estate"
+    ]
+  },
+  "5563": {
+    "amount": "$4.5M",
+    "round": "Seed",
+    "industries": [
+      "Apps",
+      "Lending",
+      "Financial Services",
+      "Real Estate"
+    ]
+  },
+  "5564": {
+    "amount": "$15M",
+    "round": "Series A",
+    "industries": [
+      "DIY",
+      "Home Decor",
+      "Communities"
+    ]
+  },
+  "5565": {
+    "amount": "$200K",
+    "round": "Seed",
+    "industries": [
+      "Housekeeping Service",
+      "Consumer",
+      "Real Estate"
+    ]
+  },
+  "5566": {
+    "amount": "$2.8M",
+    "round": "Series A",
+    "industries": [
+      "Mobile Apps",
+      "Market Research",
+      "Enterprise Software",
+      "HR"
+    ]
+  },
+  "5567": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Social Media",
+      "Social Media Management",
+      "Social Network"
+    ]
+  },
+  "5568": {
+    "amount": "$169.1K",
+    "round": "Seed",
+    "industries": [
+      "Financial Services",
+      "FinTech",
+      "Investing"
+    ]
+  },
+  "5569": {
+    "amount": "$1.5M",
+    "round": "Seed",
+    "industries": [
+      "Crowdsourcing",
+      "Search Engine",
+      "E-commerce"
+    ]
+  },
+  "5570": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Construction",
+      "Project Management",
+      "Collaboration"
+    ]
+  },
+  "5571": {
+    "amount": "$200K",
+    "round": "Seed",
+    "industries": [
+      "SaaS",
+      "Identity Management",
+      "Big Data",
+      "Security"
+    ]
+  },
+  "5572": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Impact Investing",
+      "Crowdfunding",
+      "Marketplace",
+      "Agriculture"
+    ]
+  },
+  "5573": {
+    "amount": "$3M",
+    "round": "Seed",
+    "industries": [
+      "Marketing",
+      "Advertising",
+      "Database"
+    ]
+  },
+  "5574": {
+    "amount": "$125K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Logistics",
+      "Delivery",
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  "5575": {
+    "amount": "$500K",
+    "round": "Seed",
+    "industries": [
+      "Software Engineering",
+      "Developer Platform",
+      "Product Design"
+    ]
+  },
+  "5576": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "HR",
+      "B2B",
+      "Corporate Training",
+      "Enterprise Software"
+    ]
+  },
+  "5577": {
+    "amount": "$250K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "IT",
+      "Communication Hardware"
+    ]
+  },
+  "5578": {
+    "amount": "CA$304.8K",
+    "round": "Pre-Seed",
+    "industries": [
+      "CleanTech",
+      "Oil and Gas"
+    ]
+  },
+  "5579": {
+    "amount": "\u00a355K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "SaaS",
+      "Navigation"
+    ]
+  },
+  "5580": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Analytics",
+      "SaaS",
+      "Data Visualization",
+      "Geospatial"
+    ]
+  },
+  "5581": {
+    "amount": "$500K",
+    "round": "Seed",
+    "industries": [
+      "Payments",
+      "Financial Services",
+      "E-commerce"
+    ]
+  },
+  "5582": {
+    "amount": "$6M",
+    "round": "Series A",
+    "industries": [
+      "Messaging",
+      "CRM",
+      "Customer Service",
+      "SaaS"
+    ]
+  },
+  "5583": {
+    "amount": "\u20ac235K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Insurance",
+      "InsurTech"
+    ]
+  },
+  "5584": {
+    "amount": "$500K",
+    "round": "Angel Round",
+    "industries": [
+      "Fashion",
+      "E-commerce"
+    ]
+  },
+  "5585": {
+    "amount": "$4M",
+    "round": "Seed",
+    "industries": [
+      "Risk Management",
+      "Banking",
+      "Financial Services"
+    ]
+  },
+  "5586": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Travel",
+      "Marketplace",
+      "E-commerce"
+    ]
+  },
+  "5587": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "E-commerce"
+    ]
+  },
+  "5588": {
+    "amount": "$800K",
+    "round": "Pre-Seed",
+    "industries": [
+      "eSports"
+    ]
+  },
+  "5589": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Parenting",
+      "Private Social Networking"
+    ]
+  },
+  "5590": {
+    "amount": "$545K",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "EdTech",
+      "Professional Services"
+    ]
+  },
+  "5591": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Location Based Services",
+      "Transportation"
+    ]
+  },
+  "5592": {
+    "amount": "$100K",
+    "round": "Pre-Seed",
+    "industries": [
+      "E-commerce",
+      "Marketplace",
+      "Consumer"
+    ]
+  },
+  "5593": {
+    "amount": "$500K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Publishing",
+      "EdTech"
+    ]
+  },
+  "5594": {
+    "amount": "$850K",
+    "round": "Seed",
+    "industries": [
+      "Fashion",
+      "E-commerce"
+    ]
+  },
+  "5595": {
+    "amount": "$900K",
+    "round": "Angel Round",
+    "industries": [
+      "Search Engine",
+      "AI",
+      "Enterprise Software",
+      "SaaS"
+    ]
+  },
+  "5596": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "E-commerce",
+      "Personalization",
+      "Art",
+      "Online Auctions"
+    ]
+  },
+  "5597": {
+    "amount": "\u20ac48K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Analytics",
+      "Market Research",
+      "Enterprise Software",
+      "SaaS"
+    ]
+  },
+  "5598": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Machine Learning",
+      "AI",
+      "Productivity Tools"
+    ]
+  },
+  "5599": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "Retail",
+      "IT"
+    ]
+  },
+  "5600": {
+    "amount": "$220K",
+    "round": "Pre-Seed",
+    "industries": [
+      "IT",
+      "Healthcare"
+    ]
+  },
+  "5601": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Supply Chain Management"
+    ]
+  },
+  "5602": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Web",
+      "E-commerce",
+      "Coupons"
+    ]
+  },
+  "5603": {
+    "amount": "$800K",
+    "round": "Seed",
+    "industries": [
+      "Social Media",
+      "Enterprise Software",
+      "SaaS"
+    ]
+  },
+  "5604": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Apps",
+      "Location Based Services"
+    ]
+  },
+  "5605": {
+    "amount": "$2.7M",
+    "round": "Seed",
+    "industries": [
+      "Marketplace",
+      "Legal Tech",
+      "Intellectual Property",
+      "Legal"
+    ]
+  },
+  "5606": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Healthcare",
+      "Clinical Trials"
+    ]
+  },
+  "5607": {
+    "amount": "$80K",
+    "round": "Seed",
+    "industries": [
+      "Financial Services",
+      "FinTech",
+      "Real Estate"
+    ]
+  },
+  "5608": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Crowdfunding",
+      "Financial Services",
+      "Collaborative Consumption"
+    ]
+  },
+  "5609": {
+    "amount": "$45K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Psychology",
+      "Healthcare",
+      "Wellness"
+    ]
+  },
+  "5610": {
+    "amount": "CA$100K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Payments",
+      "Debt Collections",
+      "SaaS",
+      "FinTech"
+    ]
+  },
+  "5611": {
+    "amount": "\u20ac50K",
+    "round": "Seed",
+    "industries": [
+      "AI",
+      "Legal Tech",
+      "Legal"
+    ]
+  },
+  "5612": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Travel",
+      "Marketplace",
+      "Language Learning"
+    ]
+  },
+  "5613": {
+    "amount": "$10M",
+    "round": "Series B",
+    "industries": [
+      "Social Media",
+      "Recruiting",
+      "Professional Networking"
+    ]
+  },
+  "5614": {
+    "amount": "Undisclosed",
+    "round": "Undisclosed",
+    "industries": [
+      "Legal Tech",
+      "Cloud Computing",
+      "Document Management"
+    ]
+  },
+  "5615": {
+    "amount": "$375K",
+    "round": "Debt Financing",
+    "industries": [
+      "Food and Beverage",
+      "E-commerce",
+      "Local"
+    ]
+  },
+  "5616": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Banking",
+      "Financial Services",
+      "Personal Finance"
+    ]
+  },
+  "5617": {
+    "amount": "N/A",
+    "round": "Seed",
+    "industries": [
+      "Data Visualization",
+      "Logistics",
+      "Big Data"
+    ]
+  },
+  "5618": {
+    "amount": "$50K",
+    "round": "Seed",
+    "industries": [
+      "Impact Investing",
+      "E-commerce",
+      "Organic Food"
+    ]
+  },
+  "5619": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Healthcare",
+      "AI",
+      "Big Data"
+    ]
+  },
+  "5620": {
+    "amount": "$100K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Photo Editing",
+      "Image Recognition",
+      "Photo Sharing",
+      "Computer Vision"
+    ]
+  },
+  "5621": {
+    "amount": "$400K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Software",
+      "Digital Signage"
+    ]
+  },
+  "5622": {
+    "amount": "$50M",
+    "round": "Series A",
+    "industries": [
+      "Augmented Reality",
+      "Consumer Electronics",
+      "Computer Vision"
+    ]
+  },
+  "5623": {
+    "amount": "$3M",
+    "round": "Seed",
+    "industries": [
+      "mHealth",
+      "Healthcare"
+    ]
+  },
+  "5624": {
+    "amount": "$100K",
+    "round": "Grant",
+    "industries": [
+      "Apps",
+      "Shopping"
+    ]
+  },
+  "5625": {
+    "amount": "$200K",
+    "round": "Seed",
+    "industries": [
+      "Delivery",
+      "E-commerce",
+      "Shipping"
+    ]
+  },
+  "5626": {
+    "amount": "$500K",
+    "round": "Angel Round",
+    "industries": [
+      "Retail",
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  "5627": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Messaging",
+      "Marketing",
+      "Sales"
+    ]
+  },
+  "5628": {
+    "amount": "$320K",
+    "round": "Seed",
+    "industries": [
+      "Search Engine",
+      "Big Data",
+      "Geospatial"
+    ]
+  },
+  "5629": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Crowdsourcing",
+      "Maps",
+      "Communities"
+    ]
+  },
+  "5630": {
+    "amount": "$125K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Sports",
+      "Video",
+      "Digital Media"
+    ]
+  },
+  "5631": {
+    "amount": "$200K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Investing",
+      "Big Data",
+      "Real Estate"
+    ]
+  },
+  "5632": {
+    "amount": "$6.5M",
+    "round": "Series A",
+    "industries": [
+      "SaaS",
+      "Big Data",
+      "Data Mining"
+    ]
+  },
+  "5633": {
+    "amount": "$10M",
+    "round": "Series A",
+    "industries": [
+      "Retail",
+      "E-commerce",
+      "Beauty"
+    ]
+  },
+  "5634": {
+    "amount": "$450K",
+    "round": "Angel Round",
+    "industries": [
+      "Developer Tools",
+      "Cloud Infrastructure",
+      "Cloud Computing"
+    ]
+  },
+  "5635": {
+    "amount": "$1.2M",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Music"
+    ]
+  },
+  "5636": {
+    "amount": "$500K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Presentation Software",
+      "B2B",
+      "SaaS",
+      "Collaboration"
+    ]
+  },
+  "5637": {
+    "amount": "$1M",
+    "round": "Pre-Seed",
+    "industries": [
+      "Social Media Management",
+      "Enterprise Software",
+      "SaaS"
+    ]
+  },
+  "5638": {
+    "amount": "$800K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Analytics",
+      "Software",
+      "IoT",
+      "Real Estate"
+    ]
+  },
+  "5639": {
+    "amount": "$1.2M",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Internet",
+      "Security"
+    ]
+  },
+  "5640": {
+    "amount": "$2M",
+    "round": "Seed",
+    "industries": [
+      "B2B",
+      "Marketing Automation",
+      "Big Data"
+    ]
+  },
+  "5641": {
+    "amount": "$100K",
+    "round": "Pre-Seed",
+    "industries": [
+      "CleanTech",
+      "Biotechnology",
+      "Bioinformatics"
+    ]
+  },
+  "5642": {
+    "amount": "$21.5K",
+    "round": "Angel Round",
+    "industries": [
+      "Messaging",
+      "Internet",
+      "AI"
+    ]
+  },
+  "5643": {
+    "amount": "$325K",
+    "round": "Seed",
+    "industries": [
+      "Financial Services",
+      "Apps",
+      "FinTech"
+    ]
+  },
+  "5644": {
+    "amount": "$65M",
+    "round": "Series B",
+    "industries": [
+      "Analytics",
+      "SaaS",
+      "Mobile Apps"
+    ]
+  },
+  "5645": {
+    "amount": "$3M",
+    "round": "Seed",
+    "industries": [
+      "AI",
+      "Big Data",
+      "Predictive Analytics",
+      "Cloud Data Services"
+    ]
+  },
+  "5646": {
+    "amount": "$1.5M",
+    "round": "Seed",
+    "industries": [
+      "Apps",
+      "Consumer Goods",
+      "Marketplace"
+    ]
+  },
+  "5647": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Crowdfunding",
+      "Bitcoin"
+    ]
+  },
+  "5648": {
+    "amount": "$125K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Machine Learning",
+      "AI",
+      "Developer APIs",
+      "Text Analytics"
+    ]
+  },
+  "5649": {
+    "amount": "\u00a319.5M",
+    "round": "Series C",
+    "industries": [
+      "Marketplace",
+      "Banking",
+      "FinTech"
+    ]
+  },
+  "5650": {
+    "amount": "$18M",
+    "round": "Series B",
+    "industries": [
+      "Analytics",
+      "SEO",
+      "Big Data",
+      "Advertising"
+    ]
+  },
+  "5651": {
+    "amount": "$23M",
+    "round": "Series A",
+    "industries": [
+      "Product Design",
+      "Collaboration",
+      "Content Discovery"
+    ]
+  },
+  "5652": {
+    "amount": "$350K",
+    "round": "Angel Round",
+    "industries": [
+      "Machine Learning",
+      "AI",
+      "Open Source",
+      "Consumer Electronics"
+    ]
+  },
+  "5653": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "IoT",
+      "Retail",
+      "CRM",
+      "E-commerce"
+    ]
+  },
+  "5654": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "B2B",
+      "Enterprise Software",
+      "mHealth",
+      "Personal Health",
+      "Hospital",
+      "Healthcare"
+    ]
+  },
+  "5655": {
+    "amount": "$1.8M",
+    "round": "Series A",
+    "industries": [
+      "Open Source",
+      "Software",
+      "Enterprise Software"
+    ]
+  },
+  "5656": {
+    "amount": "$35K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Customer Service",
+      "Digital Media"
+    ]
+  },
+  "5657": {
+    "amount": "$2M",
+    "round": "Seed",
+    "industries": [
+      "Banking"
+    ]
+  },
+  "5658": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Medical",
+      "Healthcare"
+    ]
+  },
+  "5659": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Parenting",
+      "Apps",
+      "Marketplace",
+      "Child Care"
+    ]
+  },
+  "5660": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Solar",
+      "Electric Vehicle",
+      "Renewable Energy",
+      "Automotive"
+    ]
+  },
+  "5661": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Ad Server",
+      "Ad Network",
+      "Advertising"
+    ]
+  },
+  "5662": {
+    "amount": "$42.5K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "CRM",
+      "Big Data",
+      "Database"
+    ]
+  },
+  "5663": {
+    "amount": "$5.5M",
+    "round": "Seed",
+    "industries": [
+      "Impact Investing",
+      "Finance",
+      "GovTech",
+      "FinTech"
+    ]
+  },
+  "5664": {
+    "amount": "Undisclosed",
+    "round": "Undisclosed",
+    "industries": [
+      "Training",
+      "EdTech",
+      "Enterprise Software"
+    ]
+  },
+  "5665": {
+    "amount": "$861.6K",
+    "round": "Seed",
+    "industries": [
+      "Retail Technology",
+      "IoT",
+      "Advertising",
+      "Digital Media"
+    ]
+  },
+  "5666": {
+    "amount": "$300K",
+    "round": "Seed",
+    "industries": [
+      "AI",
+      "HR"
+    ]
+  },
+  "5667": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Security"
+    ]
+  },
+  "5668": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "mHealth",
+      "Healthcare"
+    ]
+  },
+  "5669": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Product Search",
+      "Product Design",
+      "E-commerce"
+    ]
+  },
+  "5670": {
+    "amount": "$37K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Enterprise Software",
+      "Cloud Management"
+    ]
+  },
+  "5671": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Sensor",
+      "Computer Vision",
+      "Industrial Automation"
+    ]
+  },
+  "5672": {
+    "amount": "$125K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Education",
+      "EdTech",
+      "E-learning",
+      "Online Portals"
+    ]
+  },
+  "5673": {
+    "amount": "CA$1M",
+    "round": "Seed",
+    "industries": [
+      "Knowledge Management",
+      "AI",
+      "Messaging",
+      "Machine Learning"
+    ]
+  },
+  "5674": {
+    "amount": "$6M",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Food and Beverage",
+      "Coffee"
+    ]
+  },
+  "5675": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Machine Learning",
+      "Privacy",
+      "Cyber Security",
+      "Security"
+    ]
+  },
+  "5676": {
+    "amount": "$8.5M",
+    "round": "Series B",
+    "industries": [
+      "Software",
+      "Energy"
+    ]
+  },
+  "5677": {
+    "amount": "$835K",
+    "round": "Seed",
+    "industries": [
+      "Retail",
+      "Marketplace",
+      "E-commerce"
+    ]
+  },
+  "5678": {
+    "amount": "$1M",
+    "round": "Crowdfunding",
+    "industries": [
+      "IoT",
+      "Wearables",
+      "Hardware"
+    ]
+  },
+  "5679": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Sensor"
+    ]
+  },
+  "5680": {
+    "amount": "$250K",
+    "round": "Pre-Seed",
+    "industries": [
+      "SaaS",
+      "E-commerce",
+      "Cloud Data Services"
+    ]
+  },
+  "5681": {
+    "amount": "$300K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "SaaS",
+      "Farming",
+      "Software"
+    ]
+  },
+  "5682": {
+    "amount": "$2.1M",
+    "round": "Seed",
+    "industries": [
+      "Apps",
+      "Professional Services",
+      "Internet"
+    ]
+  },
+  "5683": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Sponsorship",
+      "Sports",
+      "Brand Marketing",
+      "Marketplace"
+    ]
+  },
+  "5684": {
+    "amount": "$10M",
+    "round": "Series A",
+    "industries": [
+      "Property Development",
+      "Marketing",
+      "Property Management",
+      "Real Estate"
+    ]
+  },
+  "5685": {
+    "amount": "$17M",
+    "round": "Series C",
+    "industries": [
+      "Financial Services",
+      "FinTech"
+    ]
+  },
+  "5686": {
+    "amount": "$155K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Insurance",
+      "Marketing",
+      "SaaS",
+      "Wellness"
+    ]
+  },
+  "5687": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Trading Platform",
+      "Developer Platform",
+      "Financial Services"
+    ]
+  },
+  "5688": {
+    "amount": "$75K",
+    "round": "Angel Round",
+    "industries": [
+      "E-commerce",
+      "Consumer",
+      "Mobile Apps"
+    ]
+  },
+  "5689": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Wholesale",
+      "B2B",
+      "E-commerce"
+    ]
+  },
+  "5690": {
+    "amount": "$20K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Finance",
+      "AI",
+      "Healthcare"
+    ]
+  },
+  "5691": {
+    "amount": "$30M",
+    "round": "Series A",
+    "industries": [
+      "InsurTech",
+      "Health Insurance",
+      "Healthcare"
+    ]
+  },
+  "5692": {
+    "amount": "$600K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Personal Health",
+      "IT",
+      "Healthcare",
+      "Wellness"
+    ]
+  },
+  "5693": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "IoT",
+      "E-commerce",
+      "Advertising"
+    ]
+  },
+  "5694": {
+    "amount": "\u00a3240K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Apps",
+      "Software",
+      "Security"
+    ]
+  },
+  "5695": {
+    "amount": "$695K",
+    "round": "Seed",
+    "industries": [
+      "Enterprise Software",
+      "Advertising",
+      "Digital Media"
+    ]
+  },
+  "5696": {
+    "amount": "$53.8K",
+    "round": "Debt Financing",
+    "industries": [
+      "Personal Health",
+      "mHealth",
+      "Healthcare"
+    ]
+  },
+  "5697": {
+    "amount": "$1.1M",
+    "round": "Series A",
+    "industries": [
+      "Messaging",
+      "Mobile Apps"
+    ]
+  },
+  "5698": {
+    "amount": "$750K",
+    "round": "Seed",
+    "industries": [
+      "Mapping Services",
+      "Food Delivery",
+      "Mobile Apps"
+    ]
+  },
+  "5699": {
+    "amount": "$125",
+    "round": "Undisclosed",
+    "industries": [
+      "Events",
+      "Communities",
+      "Local",
+      "Coupons",
+      "SaaS",
+      "Real Estate"
+    ]
+  },
+  "5700": {
+    "amount": "$30K",
+    "round": "Seed",
+    "industries": [
+      "Healthcare",
+      "Cloud Security",
+      "Enterprise Software",
+      "Email"
+    ]
+  },
+  "5701": {
+    "amount": "\u00a3580K",
+    "round": "Undisclosed",
+    "industries": [
+      "Pet",
+      "Veterinary",
+      "Electronic Health Record"
+    ]
+  },
+  "5702": {
+    "amount": "$25K",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "FinTech",
+      "Mobile Payments"
+    ]
+  },
+  "5703": {
+    "amount": "$400K",
+    "round": "Seed",
+    "industries": [
+      "Cycling",
+      "Fitness",
+      "Hardware"
+    ]
+  },
+  "5704": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Product Design",
+      "Mobile Apps"
+    ]
+  },
+  "5705": {
+    "amount": "$400K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Mobile Apps",
+      "Apps",
+      "Sports"
+    ]
+  },
+  "5706": {
+    "amount": "$40K",
+    "round": "Seed",
+    "industries": [
+      "Social Media Marketing",
+      "Market Research",
+      "Big Data"
+    ]
+  },
+  "5707": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Marketing",
+      "E-commerce"
+    ]
+  },
+  "5708": {
+    "amount": "$5.5M",
+    "round": "Seed",
+    "industries": [
+      "Elder Care",
+      "Productivity Tools",
+      "Personal Finance"
+    ]
+  },
+  "5709": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Health Diagnostics",
+      "IT",
+      "Healthcare",
+      "Medical Device"
+    ]
+  },
+  "5710": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Machine Learning",
+      "Air Transportation",
+      "InsurTech"
+    ]
+  },
+  "5711": {
+    "amount": "R$350K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Mobile Apps",
+      "Pet",
+      "Hardware"
+    ]
+  },
+  "5712": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Marketplace",
+      "E-commerce",
+      "3D Printing"
+    ]
+  },
+  "5713": {
+    "amount": "$200K",
+    "round": "Seed",
+    "industries": [
+      "Sales Automation",
+      "IT",
+      "SaaS",
+      "Task Management"
+    ]
+  },
+  "5714": {
+    "amount": "$165K",
+    "round": "Angel Round",
+    "industries": [
+      "Software",
+      "E-commerce"
+    ]
+  },
+  "5715": {
+    "amount": "Undisclosed",
+    "round": "Angel Round",
+    "industries": [
+      "Small and Medium Businesses",
+      "B2B",
+      "E-commerce"
+    ]
+  },
+  "5716": {
+    "amount": "$15M",
+    "round": "Undisclosed",
+    "industries": [
+      "IoT",
+      "Enterprise Software",
+      "Cloud Infrastructure"
+    ]
+  },
+  "5717": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Software"
+    ]
+  },
+  "5718": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Travel",
+      "IT Management",
+      "Big Data"
+    ]
+  },
+  "5719": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Business Development",
+      "SaaS",
+      "Productivity Tools",
+      "Content"
+    ]
+  },
+  "5720": {
+    "amount": "$4.5M",
+    "round": "Series A",
+    "industries": [
+      "Financial Services",
+      "Finance",
+      "FinTech"
+    ]
+  },
+  "5721": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Retail",
+      "E-commerce",
+      "Lifestyle"
+    ]
+  },
+  "5722": {
+    "amount": "$120K",
+    "round": "Angel Round",
+    "industries": [
+      "Shopping",
+      "E-commerce",
+      "Beauty",
+      "Lifestyle"
+    ]
+  },
+  "5723": {
+    "amount": "$700K",
+    "round": "Angel Round",
+    "industries": [
+      "Software",
+      "Apps"
+    ]
+  },
+  "5724": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "SEO",
+      "Audio",
+      "Digital Media",
+      "Podcast"
+    ]
+  },
+  "5725": {
+    "amount": "$6.1M",
+    "round": "Series A",
+    "industries": [
+      "Machine Learning",
+      "AI",
+      "Medical",
+      "Healthcare"
+    ]
+  },
+  "5726": {
+    "amount": "$15M",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "HR"
+    ]
+  },
+  "5727": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "AI",
+      "Developer Tools",
+      "Big Data",
+      "Machine Learning"
+    ]
+  },
+  "5728": {
+    "amount": "Undisclosed",
+    "round": "Pre-Seed",
+    "industries": [
+      "Risk Management",
+      "AI",
+      "InsurTech",
+      "Automotive"
+    ]
+  },
+  "5729": {
+    "amount": "$2.7M",
+    "round": "Seed",
+    "industries": [
+      "AI",
+      "Enterprise Software",
+      "Predictive Analytics",
+      "Machine Learning",
+      "Automotive"
+    ]
+  },
+  "5730": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Search Engine",
+      "Price Comparison"
+    ]
+  },
+  "5731": {
+    "amount": "$175K",
+    "round": "Seed",
+    "industries": [
+      "Social Media",
+      "News"
+    ]
+  },
+  "5732": {
+    "amount": "$112.5K",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "Printing",
+      "E-commerce"
+    ]
+  },
+  "5733": {
+    "amount": "$157.5K",
+    "round": "Seed",
+    "industries": [
+      "Email Marketing",
+      "Retail",
+      "E-commerce",
+      "Marketing Automation",
+      "Advertising"
+    ]
+  },
+  "5734": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "GovTech",
+      "Enterprise Software",
+      "Procurement"
+    ]
+  },
+  "5735": {
+    "amount": "$35K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Accounting",
+      "EdTech",
+      "E-learning",
+      "Legal"
+    ]
+  },
+  "5736": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "Advertising",
+      "Video Advertising"
+    ]
+  },
+  "5737": {
+    "amount": "$225K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "E-commerce",
+      "Real Estate"
+    ]
+  },
+  "5738": {
+    "amount": "$375K",
+    "round": "Seed",
+    "industries": [
+      "HR",
+      "Employment",
+      "Recruiting",
+      "SaaS",
+      "Corporate Training"
+    ]
+  },
+  "5739": {
+    "amount": "$200K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Mobile Apps",
+      "Photography",
+      "Consumer Electronics"
+    ]
+  },
+  "5740": {
+    "amount": "$3M",
+    "round": "Seed",
+    "industries": [
+      "Retail",
+      "Consumer Goods",
+      "E-commerce"
+    ]
+  },
+  "5741": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Crowdfunding"
+    ]
+  },
+  "5742": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "Toys",
+      "E-commerce",
+      "Personalization"
+    ]
+  },
+  "5743": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Retail",
+      "B2B",
+      "SaaS"
+    ]
+  },
+  "5744": {
+    "amount": "$172.5K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Software",
+      "Social Network"
+    ]
+  },
+  "5745": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Pharmaceutical",
+      "Medical Device",
+      "Life Science",
+      "Biotechnology",
+      "SaaS"
+    ]
+  },
+  "5746": {
+    "amount": "$175K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Travel",
+      "B2B",
+      "Education",
+      "Market Research",
+      "Video Streaming"
+    ]
+  },
+  "5747": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Advertising",
+      "App Marketing"
+    ]
+  },
+  "5748": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Big Data",
+      "Advertising",
+      "Database"
+    ]
+  },
+  "5749": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Finance",
+      "Lending",
+      "Financial Services"
+    ]
+  },
+  "5750": {
+    "amount": "$125K",
+    "round": "Undisclosed",
+    "industries": [
+      "Apps",
+      "Music",
+      "Mobile Apps",
+      "Android",
+      "IOS"
+    ]
+  },
+  "5751": {
+    "amount": "$3.5M",
+    "round": "Seed",
+    "industries": [
+      "Cloud Management",
+      "IT",
+      "Mobile Apps",
+      "Marketplace",
+      "Developer APIs"
+    ]
+  },
+  "5752": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Digital Entertainment",
+      "Music",
+      "Music Venues"
+    ]
+  },
+  "5753": {
+    "amount": "$300K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Real Time",
+      "Audio",
+      "News"
+    ]
+  },
+  "5754": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "IT"
+    ]
+  },
+  "5755": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Commercial Lending",
+      "Lending",
+      "Real Estate",
+      "Commercial Real Estate",
+      "Real Estate Investment"
+    ]
+  },
+  "5756": {
+    "amount": "$1.9M",
+    "round": "Undisclosed",
+    "industries": [
+      "Real Estate Investment",
+      "Crowdfunding",
+      "Financial Services",
+      "Real Estate"
+    ]
+  },
+  "5757": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "AI"
+    ]
+  },
+  "5758": {
+    "amount": "$205K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Finance",
+      "Internet",
+      "Real Estate"
+    ]
+  },
+  "5759": {
+    "amount": "Undisclosed",
+    "round": "Pre-Seed",
+    "industries": [
+      "B2C",
+      "Healthcare",
+      "Wellness"
+    ]
+  },
+  "5760": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Insurance",
+      "Financial Services"
+    ]
+  },
+  "5761": {
+    "amount": "$10M",
+    "round": "Series B",
+    "industries": [
+      "Internet",
+      "Marketing",
+      "Advertising"
+    ]
+  },
+  "5762": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Enterprise Software",
+      "SaaS",
+      "Project Management",
+      "Video"
+    ]
+  },
+  "5763": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Peer to Peer",
+      "Mobile Payments",
+      "Finance",
+      "Financial Services",
+      "Payments",
+      "FinTech"
+    ]
+  },
+  "5764": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Crowdsourcing",
+      "Crowdfunding",
+      "Events"
+    ]
+  },
+  "5765": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Embedded Software",
+      "IT",
+      "Human Computer Interaction",
+      "IoT",
+      "Electronics",
+      "Hardware"
+    ]
+  },
+  "5766": {
+    "amount": "$147K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Audio",
+      "Intellectual Property",
+      "B2B"
+    ]
+  },
+  "5767": {
+    "amount": "Undisclosed",
+    "round": "Pre-Seed",
+    "industries": [
+      "Analytics",
+      "Big Data",
+      "Advertising",
+      "Predictive Analytics"
+    ]
+  },
+  "5768": {
+    "amount": "$1.9M",
+    "round": "Undisclosed",
+    "industries": [
+      "Mobile Apps",
+      "Transportation",
+      "Communities",
+      "Automotive"
+    ]
+  },
+  "5769": {
+    "amount": "$66M",
+    "round": "Series B",
+    "industries": [
+      "Payments",
+      "Banking",
+      "FinTech"
+    ]
+  },
+  "5770": {
+    "amount": "$25K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Developer Tools",
+      "Mobile Apps",
+      "Developer APIs",
+      "Fraud Detection"
+    ]
+  },
+  "5771": {
+    "amount": "$2M",
+    "round": "Seed",
+    "industries": [
+      "Financial Services",
+      "FinTech"
+    ]
+  },
+  "5772": {
+    "amount": "$1M",
+    "round": "Undisclosed",
+    "industries": [
+      "Higher Education",
+      "Developer Platform",
+      "Life Science",
+      "UX Design"
+    ]
+  },
+  "5773": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Bitcoin",
+      "Finance",
+      "Banking",
+      "Payments"
+    ]
+  },
+  "5774": {
+    "amount": "$384K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Finance",
+      "Incubators"
+    ]
+  },
+  "5775": {
+    "amount": "$50K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Internet",
+      "Email"
+    ]
+  },
+  "5776": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "News",
+      "Content Delivery Network",
+      "Social Media",
+      "Broadcasting",
+      "Religion",
+      "Video"
+    ]
+  },
+  "5777": {
+    "amount": "$100K",
+    "round": "Angel Round",
+    "industries": [
+      "Software",
+      "Sports",
+      "Location Based Services",
+      "Retail",
+      "Shopping"
+    ]
+  },
+  "5778": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "B2B",
+      "Manufacturing",
+      "Automotive",
+      "Battery",
+      "Hardware"
+    ]
+  },
+  "5779": {
+    "amount": "$500K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "IT",
+      "Task Management",
+      "Collaboration",
+      "Project Management"
+    ]
+  },
+  "5780": {
+    "amount": "$137.6K",
+    "round": "Crowdfunding",
+    "industries": [
+      "Fashion",
+      "Retail",
+      "E-commerce"
+    ]
+  },
+  "5781": {
+    "amount": "$68M",
+    "round": "Series A",
+    "industries": [
+      "Content",
+      "Digital Entertainment",
+      "Virtual Reality"
+    ]
+  },
+  "5782": {
+    "amount": "Undisclosed",
+    "round": "Undisclosed",
+    "industries": [
+      "Education"
+    ]
+  },
+  "5783": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Crowdfunding",
+      "AI",
+      "Data Mining",
+      "Photography",
+      "Content",
+      "Photo Sharing",
+      "Marketing Automation"
+    ]
+  },
+  "5784": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Fashion",
+      "E-commerce"
+    ]
+  },
+  "5785": {
+    "amount": "$8M",
+    "round": "Series A",
+    "industries": [
+      "Medical",
+      "Hospital",
+      "Healthcare"
+    ]
+  },
+  "5786": {
+    "amount": "$18K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Business Development",
+      "SaaS",
+      "CRM",
+      "Email"
+    ]
+  },
+  "5787": {
+    "amount": "$6.8B",
+    "round": "Undisclosed",
+    "industries": [
+      "Impact Investing",
+      "Business Development",
+      "Venture Capital",
+      "Finance"
+    ]
+  },
+  "5788": {
+    "amount": "Undisclosed",
+    "round": "Pre-Seed",
+    "industries": [
+      "Marketing",
+      "IT",
+      "Broadcasting",
+      "Media and Entertainment",
+      "Marketplace"
+    ]
+  },
+  "5789": {
+    "amount": "$3M",
+    "round": "Series A",
+    "industries": [
+      "Marketing",
+      "Video",
+      "Advertising"
+    ]
+  },
+  "5790": {
+    "amount": "CA$100K",
+    "round": "Angel Round",
+    "industries": [
+      "Peer to Peer",
+      "Cryptocurrency",
+      "Self-storage",
+      "Sharing Economy",
+      "Parking",
+      "E-commerce"
+    ]
+  },
+  "5791": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Internet",
+      "Logistics",
+      "Marketplace",
+      "Freight Service",
+      "Shipping"
+    ]
+  },
+  "5792": {
+    "amount": "$25K",
+    "round": "Pre-Seed",
+    "industries": [
+      "B2B",
+      "Supply Chain Management",
+      "Logistics",
+      "E-commerce",
+      "Developer APIs",
+      "Shipping"
+    ]
+  },
+  "5793": {
+    "amount": "$500K",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "Ad Targeting",
+      "Marketing",
+      "E-commerce",
+      "Advertising"
+    ]
+  },
+  "5794": {
+    "amount": "\u00a5145M",
+    "round": "Undisclosed",
+    "industries": [
+      "Career Planning",
+      "Media and Entertainment"
+    ]
+  },
+  "5795": {
+    "amount": "Undisclosed",
+    "round": "Later Stage",
+    "industries": [
+      "Software",
+      "Developer Tools",
+      "E-commerce"
+    ]
+  },
+  "5796": {
+    "amount": "$41.3K",
+    "round": "Seed",
+    "industries": [
+      "Payments",
+      "Software",
+      "E-commerce"
+    ]
+  },
+  "5797": {
+    "amount": "$250K",
+    "round": "Seed",
+    "industries": [
+      "mHealth",
+      "Big Data",
+      "Predictive Analytics"
+    ]
+  },
+  "5798": {
+    "amount": "$80K",
+    "round": "Seed",
+    "industries": [
+      "Sporting Goods",
+      "Retail",
+      "Marketplace",
+      "E-commerce"
+    ]
+  },
+  "5799": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Photography",
+      "IT",
+      "Digital Media"
+    ]
+  },
+  "5800": {
+    "amount": "$590K",
+    "round": "Seed",
+    "industries": [
+      "Rental Property",
+      "Real Estate"
+    ]
+  },
+  "5801": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Healthcare"
+    ]
+  },
+  "5802": {
+    "amount": "$225K",
+    "round": "Undisclosed",
+    "industries": [
+      "Information Services",
+      "IT",
+      "Logistics"
+    ]
+  },
+  "5803": {
+    "amount": "Undisclosed",
+    "round": "Undisclosed",
+    "industries": [
+      "Analytics",
+      "Big Data"
+    ]
+  },
+  "5804": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Health Diagnostics",
+      "Augmented Reality",
+      "Healthcare"
+    ]
+  },
+  "5805": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Textiles",
+      "Healthcare",
+      "Consumer Electronics"
+    ]
+  },
+  "5806": {
+    "amount": "\u20ac71.4K",
+    "round": "Grant",
+    "industries": [
+      "Computer",
+      "Security",
+      "Software"
+    ]
+  },
+  "5807": {
+    "amount": "$800M",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "AI",
+      "Big Data",
+      "IT",
+      "IT Infrastructure",
+      "Machine Learning"
+    ]
+  },
+  "5808": {
+    "amount": "$35K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Presentation Software",
+      "Enterprise Software",
+      "Productivity Tools",
+      "SaaS"
+    ]
+  },
+  "5809": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Big Data",
+      "Real Estate"
+    ]
+  },
+  "5810": {
+    "amount": "$10M",
+    "round": "Series B",
+    "industries": [
+      "Recruiting",
+      "Enterprise Software",
+      "SaaS"
+    ]
+  },
+  "5811": {
+    "amount": "Undisclosed",
+    "round": "Undisclosed",
+    "industries": [
+      "IT"
+    ]
+  },
+  "5812": {
+    "amount": "\u20ac400K",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "IT",
+      "Restaurants"
+    ]
+  },
+  "5813": {
+    "amount": "$2.6M",
+    "round": "Seed",
+    "industries": [
+      "Insurance",
+      "Internet",
+      "Software",
+      "Financial Services",
+      "Mobile Apps"
+    ]
+  },
+  "5814": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Usability Testing",
+      "Android",
+      "Quality Assurance",
+      "IOS"
+    ]
+  },
+  "5815": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Fashion",
+      "Web Design",
+      "Retail",
+      "Private Social Networking",
+      "Marketplace",
+      "E-commerce",
+      "Handmade"
+    ]
+  },
+  "5816": {
+    "amount": "$225M",
+    "round": "Series D",
+    "industries": [
+      "Travel",
+      "Hospitality",
+      "Tourism"
+    ]
+  },
+  "5817": {
+    "amount": "$900K",
+    "round": "Undisclosed",
+    "industries": [
+      "Location Based Services",
+      "Apps",
+      "Social Media",
+      "Music",
+      "Real Time",
+      "Android",
+      "IOS"
+    ]
+  },
+  "5818": {
+    "amount": "$126.5K",
+    "round": "Seed",
+    "industries": [
+      "Fashion",
+      "Supply Chain Management",
+      "SaaS",
+      "Manufacturing"
+    ]
+  },
+  "5819": {
+    "amount": "Undisclosed",
+    "round": "Undisclosed",
+    "industries": [
+      "Mobile Apps",
+      "Telecommunications"
+    ]
+  },
+  "5820": {
+    "amount": "$75K",
+    "round": "Undisclosed",
+    "industries": [
+      "Internet",
+      "E-commerce",
+      "Advertising",
+      "Freelance"
+    ]
+  },
+  "5821": {
+    "amount": "$150K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Crowdfunding",
+      "AI",
+      "Software",
+      "Sports",
+      "Fantasy Sports",
+      "Machine Learning"
+    ]
+  },
+  "5822": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Journalism",
+      "Publishing",
+      "News"
+    ]
+  },
+  "5823": {
+    "amount": "$250K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Big Data",
+      "Retail Technology",
+      "IoT",
+      "Hardware"
+    ]
+  },
+  "5824": {
+    "amount": "$10M",
+    "round": "Series A",
+    "industries": [
+      "Mobile Apps",
+      "Payments",
+      "FinTech"
+    ]
+  },
+  "5825": {
+    "amount": "$800K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Apps",
+      "E-commerce"
+    ]
+  },
+  "5826": {
+    "amount": "$300k",
+    "round": "Pre-Seed",
+    "industries": [
+      "Software",
+      "Developer Tools",
+      "Computer Vision",
+      "Cloud Computing",
+      "SaaS"
+    ]
+  },
+  "5827": {
+    "amount": "$325K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Internet",
+      "AI",
+      "Data Visualization",
+      "Software",
+      "IT"
+    ]
+  },
+  "5828": {
+    "amount": "Undisclosed",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "Video Advertising"
+    ]
+  },
+  "5829": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Travel",
+      "Elderly"
+    ]
+  },
+  "5830": {
+    "amount": "$100K",
+    "round": "Undisclosed",
+    "industries": [
+      "Software",
+      "Video"
+    ]
+  },
+  "5831": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Apps",
+      "Lending",
+      "Mobile Apps",
+      "SaaS",
+      "Real Estate",
+      "FinTech"
+    ]
+  },
+  "5832": {
+    "amount": "A$800K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Messaging",
+      "Location Based Services",
+      "Local",
+      "Mobile Apps",
+      "Marketing Automation"
+    ]
+  },
+  "5833": {
+    "amount": "$300K",
+    "round": "Undisclosed",
+    "industries": [
+      "Education",
+      "Publishing",
+      "University",
+      "Content",
+      "Marketplace"
+    ]
+  },
+  "5834": {
+    "amount": "Undisclosed",
+    "round": "Undisclosed",
+    "industries": [
+      "File Sharing",
+      "Cloud Data Services",
+      "Cloud Infrastructure"
+    ]
+  },
+  "5835": {
+    "amount": "$400K",
+    "round": "Seed",
+    "industries": [
+      "Construction",
+      "E-commerce"
+    ]
+  },
+  "5836": {
+    "amount": "$25K",
+    "round": "Angel Round",
+    "industries": [
+      "Loyalty Programs",
+      "Financial Services",
+      "Gift Card",
+      "E-commerce",
+      "FinTech"
+    ]
+  },
+  "5837": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Business Intelligence",
+      "SaaS"
+    ]
+  },
+  "5838": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Biotechnology",
+      "Pharmaceutical",
+      "Life Science"
+    ]
+  },
+  "5839": {
+    "amount": "$185K",
+    "round": "Seed",
+    "industries": [
+      "Social Media",
+      "Advertising"
+    ]
+  },
+  "5840": {
+    "amount": "$600K",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "Logistics",
+      "Retail",
+      "Home Services",
+      "Home Improvement",
+      "E-commerce"
+    ]
+  },
+  "5841": {
+    "amount": "$600K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "SaaS"
+    ]
+  },
+  "5842": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "SaaS",
+      "Enterprise Software",
+      "Predictive Analytics",
+      "Aerospace"
+    ]
+  },
+  "5843": {
+    "amount": "$125K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Social",
+      "Retail",
+      "E-commerce"
+    ]
+  },
+  "5844": {
+    "amount": "$125K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Software",
+      "RFID",
+      "IoT"
+    ]
+  },
+  "5845": {
+    "amount": "$5.1M",
+    "round": "Undisclosed",
+    "industries": [
+      "Video Conferencing",
+      "CRM",
+      "Lead Generation",
+      "Customer Service",
+      "SaaS"
+    ]
+  },
+  "5846": {
+    "amount": "$180K",
+    "round": "Seed",
+    "industries": [
+      "Payments",
+      "Employment",
+      "Recruiting",
+      "HR"
+    ]
+  },
+  "5847": {
+    "amount": "$1.2M",
+    "round": "Undisclosed",
+    "industries": [
+      "Email Marketing",
+      "Marketing Automation",
+      "Social Media",
+      "E-commerce"
+    ]
+  },
+  "5848": {
+    "amount": "$40K",
+    "round": "Seed",
+    "industries": [
+      "Business Development",
+      "B2B",
+      "Enterprise Software",
+      "SaaS"
+    ]
+  },
+  "5849": {
+    "amount": "$50K",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Publishing",
+      "Gaming"
+    ]
+  },
+  "5850": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Wearables",
+      "Music",
+      "Consumer Electronics",
+      "Musical Instruments"
+    ]
+  },
+  "5851": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Service Industry",
+      "Enterprise Software",
+      "Online Portals"
+    ]
+  },
+  "5852": {
+    "amount": "$300K",
+    "round": "Seed",
+    "industries": [
+      "Search Engine"
+    ]
+  },
+  "5853": {
+    "amount": "$20K",
+    "round": "Seed",
+    "industries": [
+      "Tea",
+      "Parenting",
+      "E-commerce",
+      "SaaS",
+      "Video"
+    ]
+  },
+  "5854": {
+    "amount": "CHF100K",
+    "round": "Debt Financing",
+    "industries": [
+      "Video"
+    ]
+  },
+  "5855": {
+    "amount": "Undisclosed",
+    "round": "Pre-Seed",
+    "industries": [
+      "Government",
+      "B2B",
+      "Private Social Networking"
+    ]
+  },
+  "5856": {
+    "amount": "$125K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Delivery",
+      "Hospital",
+      "Healthcare"
+    ]
+  },
+  "5857": {
+    "amount": "$1.5M",
+    "round": "Seed",
+    "industries": [
+      "Content Delivery Network",
+      "Music",
+      "Audio",
+      "Content",
+      "Marketplace"
+    ]
+  },
+  "5858": {
+    "amount": "$500K",
+    "round": "Seed",
+    "industries": [
+      "Biotechnology",
+      "Health Diagnostics",
+      "Healthcare"
+    ]
+  },
+  "5859": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Finance",
+      "FinTech"
+    ]
+  },
+  "5860": {
+    "amount": "$7M",
+    "round": "Series A",
+    "industries": [
+      "Apps",
+      "Corporate Training",
+      "Productivity Tools"
+    ]
+  },
+  "5861": {
+    "amount": "$50M",
+    "round": "Seed",
+    "industries": [
+      "Dating",
+      "Search Engine",
+      "Mobile Apps"
+    ]
+  },
+  "5862": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "IT",
+      "Consulting"
+    ]
+  },
+  "5863": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Healthcare"
+    ]
+  },
+  "5864": {
+    "amount": "$500K",
+    "round": "Seed",
+    "industries": [
+      "Apps",
+      "Art",
+      "CAD",
+      "Architecture"
+    ]
+  },
+  "5865": {
+    "amount": "$1.8M",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Marketplace",
+      "E-commerce"
+    ]
+  },
+  "5866": {
+    "amount": "$175K",
+    "round": "Angel Round",
+    "industries": [
+      "Guides",
+      "Tourism",
+      "Travel"
+    ]
+  },
+  "5867": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Construction",
+      "Cloud Computing"
+    ]
+  },
+  "5868": {
+    "amount": "$500K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Marketplace",
+      "IP",
+      "Innovation Management"
+    ]
+  },
+  "5869": {
+    "amount": "$58M",
+    "round": "Series C",
+    "industries": [
+      "Payments",
+      "Finance",
+      "FinTech",
+      "Peer to Peer"
+    ]
+  },
+  "5870": {
+    "amount": "$125K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Education",
+      "Video",
+      "Digital Signage",
+      "Tutoring"
+    ]
+  },
+  "5871": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Mobile Apps",
+      "Software",
+      "Waste Management"
+    ]
+  },
+  "5872": {
+    "amount": "$70K",
+    "round": "Seed",
+    "industries": [
+      "Finance",
+      "Enterprise Software",
+      "Collaboration"
+    ]
+  },
+  "5873": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Mobile Apps",
+      "Transportation",
+      "Trucking"
+    ]
+  },
+  "5874": {
+    "amount": "$300K",
+    "round": "Seed",
+    "industries": [
+      "Healthcare",
+      "Elder Care",
+      "mHealth",
+      "Developer APIs"
+    ]
+  },
+  "5875": {
+    "amount": "$8.3M",
+    "round": "Series A",
+    "industries": [
+      "Trading Platform",
+      "Banking",
+      "FinTech"
+    ]
+  },
+  "5876": {
+    "amount": "$500K",
+    "round": "Angel Round",
+    "industries": [
+      "Identity Management",
+      "Enterprise Software",
+      "Collaborative Consumption"
+    ]
+  },
+  "5877": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Insurance",
+      "Financial Services"
+    ]
+  },
+  "5878": {
+    "amount": "$65K",
+    "round": "Seed",
+    "industries": [
+      "Travel",
+      "Events",
+      "Leisure"
+    ]
+  },
+  "5879": {
+    "amount": "$1M",
+    "round": "Seed",
+    "industries": [
+      "Content Creators",
+      "Marketplace"
+    ]
+  },
+  "5880": {
+    "amount": "$200K",
+    "round": "Early Stage",
+    "industries": [
+      "Mobile Apps",
+      "Transportation",
+      "Ride Sharing"
+    ]
+  },
+  "5881": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Education",
+      "Marketplace",
+      "Tutoring"
+    ]
+  },
+  "5882": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Fashion",
+      "Brand Marketing",
+      "Cosmetics"
+    ]
+  },
+  "5883": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Payments",
+      "FinTech"
+    ]
+  },
+  "5884": {
+    "amount": "$500K",
+    "round": "Seed",
+    "industries": [
+      "Concerts",
+      "Apps"
+    ]
+  },
+  "5885": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Analytics",
+      "GovTech",
+      "Machine Learning"
+    ]
+  },
+  "5886": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Marketplace",
+      "Retail",
+      "B2B",
+      "E-commerce"
+    ]
+  },
+  "5887": {
+    "amount": "\u20ac120K",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Cloud Computing",
+      "Virtual Reality"
+    ]
+  },
+  "5888": {
+    "amount": "$21M",
+    "round": "Seed",
+    "industries": [
+      "Cryptocurrency",
+      "Payments",
+      "E-commerce",
+      "FinTech"
+    ]
+  },
+  "5889": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "Mobile Apps",
+      "Big Data"
+    ]
+  },
+  "5890": {
+    "amount": "$1.4M",
+    "round": "Seed",
+    "industries": [
+      "Travel",
+      "Hospitality",
+      "Real Estate"
+    ]
+  },
+  "5891": {
+    "amount": "$100K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Construction",
+      "Online Portals",
+      "Building Material"
+    ]
+  },
+  "5892": {
+    "amount": "$145K",
+    "round": "Seed",
+    "industries": [
+      "Data Visualization",
+      "E-commerce",
+      "Art"
+    ]
+  },
+  "5893": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "AI",
+      "B2B",
+      "HR",
+      "Machine Learning",
+      "Recruiting"
+    ]
+  },
+  "5894": {
+    "amount": "$10K",
+    "round": "Seed",
+    "industries": [
+      "Events",
+      "Marketplace",
+      "B2B",
+      "E-commerce"
+    ]
+  },
+  "5895": {
+    "amount": "$1.2M",
+    "round": "Pre-Seed",
+    "industries": [
+      "Big Data",
+      "Retail Technology",
+      "SaaS",
+      "Automotive",
+      "E-commerce"
+    ]
+  },
+  "5896": {
+    "amount": "$23M",
+    "round": "Series A",
+    "industries": [
+      "Machine Learning",
+      "Internet",
+      "AI"
+    ]
+  },
+  "5897": {
+    "amount": "$100K",
+    "round": "Seed",
+    "industries": [
+      "Analytics",
+      "AB Testing",
+      "Mobile Apps"
+    ]
+  },
+  "5898": {
+    "amount": "$1.2M",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Marketplace",
+      "SaaS",
+      "Recruiting"
+    ]
+  },
+  "5899": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Emerging Markets",
+      "Logistics",
+      "E-commerce",
+      "Healthcare"
+    ]
+  },
+  "5900": {
+    "amount": "$1.3M",
+    "round": "Series A",
+    "industries": [
+      "Web",
+      "Marketing Automation",
+      "Corporate Training",
+      "Enterprise Software"
+    ]
+  },
+  "5901": {
+    "amount": "$50K",
+    "round": "Seed",
+    "industries": [
+      "Messaging",
+      "Video",
+      "Mobile Apps"
+    ]
+  },
+  "5902": {
+    "amount": "N/A",
+    "round": "Undisclosed",
+    "industries": [
+      "Broadcasting",
+      "Internet"
+    ]
+  },
+  "5903": {
+    "amount": "$125K",
+    "round": "Angel Round",
+    "industries": [
+      "Machine Learning",
+      "Crowdfunding",
+      "Messaging",
+      "Security"
+    ]
+  },
+  "5904": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Fashion",
+      "Apps",
+      "E-commerce",
+      "Shopping"
+    ]
+  },
+  "5905": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Video",
+      "Marketing",
+      "Marketplace",
+      "Advertising"
+    ]
+  },
+  "5906": {
+    "amount": "$475K",
+    "round": "Seed",
+    "industries": [
+      "AI",
+      "GovTech"
+    ]
+  },
+  "5907": {
+    "amount": "\u20ac1.5M",
+    "round": "Undisclosed",
+    "industries": [
+      "Enterprise Software",
+      "Big Data",
+      "Predictive Analytics",
+      "Lead Generation",
+      "SaaS"
+    ]
+  },
+  "5908": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "E-commerce",
+      "Augmented Reality",
+      "Mobile Apps"
+    ]
+  },
+  "5909": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "AI",
+      "Transportation",
+      "Machine Learning",
+      "Parking",
+      "Smart Cities"
+    ]
+  },
+  "5910": {
+    "amount": "$125K",
+    "round": "Seed",
+    "industries": [
+      "Insurance",
+      "Financial Services"
+    ]
+  },
+  "5911": {
+    "amount": "$1.5M",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "VoIP",
+      "Telecommunications"
+    ]
+  },
+  "5912": {
+    "amount": "$500K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Simulation",
+      "Transportation",
+      "Virtual Reality"
+    ]
+  },
+  "5913": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Ticketing"
+    ]
+  },
+  "5914": {
+    "amount": "$50K",
+    "round": "Seed",
+    "industries": [
+      "Search Engine",
+      "Advertising"
+    ]
+  },
+  "5915": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Internet",
+      "Retail",
+      "Beauty",
+      "Shopping"
+    ]
+  },
+  "5916": {
+    "amount": "CA$1.9M",
+    "round": "Seed",
+    "industries": [
+      "FinTech",
+      "Investing",
+      "Personal Finance"
+    ]
+  },
+  "5917": {
+    "amount": "$500K",
+    "round": "Undisclosed",
+    "industries": [
+      "Crowdfunding",
+      "SaaS"
+    ]
+  },
+  "5918": {
+    "amount": "\u20ac260K",
+    "round": "Seed",
+    "industries": [
+      "B2B",
+      "Gamification",
+      "Healthcare",
+      "Data Integration",
+      "Fitness"
+    ]
+  },
+  "5919": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Mobile Apps",
+      "Healthcare",
+      "Wellness"
+    ]
+  },
+  "5920": {
+    "amount": "$25K",
+    "round": "Seed",
+    "industries": [
+      "Travel",
+      "E-commerce"
+    ]
+  },
+  "5921": {
+    "amount": "$150K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Information Services",
+      "Apps",
+      "IT"
+    ]
+  },
+  "5922": {
+    "amount": "$335M",
+    "round": "Series D",
+    "industries": [
+      "Coworking",
+      "Hospitality",
+      "Real Estate"
+    ]
+  },
+  "5923": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "E-commerce",
+      "Consumer"
+    ]
+  },
+  "5924": {
+    "amount": "$2.5M",
+    "round": "Seed",
+    "industries": [
+      "Apps",
+      "Marketplace",
+      "Child Care"
+    ]
+  },
+  "5925": {
+    "amount": "$25K",
+    "round": "Angel Round",
+    "industries": [
+      "Marketing",
+      "Advertising",
+      "Loyalty Programs"
+    ]
+  },
+  "5926": {
+    "amount": "$4M",
+    "round": "Seed",
+    "industries": [
+      "AI",
+      "Freelance",
+      "Machine Learning",
+      "Recruiting",
+      "Payments"
+    ]
+  },
+  "5927": {
+    "amount": "$6.5M",
+    "round": "Series A",
+    "industries": [
+      "Enterprise Software",
+      "HR",
+      "SaaS",
+      "Wellness",
+      "Healthcare"
+    ]
+  },
+  "5928": {
+    "amount": "$6M",
+    "round": "Series A",
+    "industries": [
+      "Software",
+      "Market Research",
+      "AI",
+      "IT"
+    ]
+  },
+  "5929": {
+    "amount": "$4.2M",
+    "round": "Series A",
+    "industries": [
+      "Mobile Apps",
+      "SaaS",
+      "Cloud Computing"
+    ]
+  },
+  "5930": {
+    "amount": "$8M",
+    "round": "Series A",
+    "industries": [
+      "Analytics",
+      "AI",
+      "CRM"
+    ]
+  },
+  "5931": {
+    "amount": "$5M",
+    "round": "Series A",
+    "industries": [
+      "Messaging",
+      "Social Network",
+      "Collaboration"
+    ]
+  },
+  "5932": {
+    "amount": "$5.3M",
+    "round": "Undisclosed",
+    "industries": [
+      "Payments",
+      "AI",
+      "FinTech",
+      "SaaS"
+    ]
+  },
+  "5933": {
+    "amount": "Undisclosed",
+    "round": "Pre-Seed",
+    "industries": [
+      "AI",
+      "B2B",
+      "Enterprise Software"
+    ]
+  },
+  "5934": {
+    "amount": "$100K",
+    "round": "Pre-Seed",
+    "industries": [
+      "Education",
+      "SaaS",
+      "EdTech",
+      "E-learning"
+    ]
+  },
+  "5935": {
+    "amount": "$320K",
+    "round": "Seed",
+    "industries": [
+      "Healthcare",
+      "Social Media",
+      "Fitness",
+      "Freemium"
+    ]
+  },
+  "5936": {
+    "amount": "$3.5M",
+    "round": "Series A",
+    "industries": [
+      "Internet",
+      "Video",
+      "Music"
+    ]
+  },
+  "5937": {
+    "amount": "$100K",
+    "round": "Angel Round",
+    "industries": [
+      "Beauty",
+      "Cosmetic Surgery",
+      "Healthcare",
+      "Cosmetics",
+      "Dental"
+    ]
+  },
+  "5938": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Software",
+      "Insurance",
+      "Healthcare",
+      "Dental"
+    ]
+  },
+  "5939": {
+    "amount": "$120K",
+    "round": "Seed",
+    "industries": [
+      "Enterprise Software",
+      "SaaS",
+      "HR"
+    ]
+  },
+  "5940": {
+    "amount": "$1.3M",
+    "round": "Series A",
+    "industries": [
+      "Animation",
+      "Gaming",
+      "Video Games"
+    ]
+  },
+  "5941": {
+    "amount": "$110K",
+    "round": "Seed",
+    "industries": [
+      "Social Media",
+      "B2B"
+    ]
+  },
+  "5942": {
+    "amount": "Undisclosed",
+    "round": "Seed",
+    "industries": [
+      "Machine Learning",
+      "Software",
+      "Cyber Security"
+    ]
+  }
+}
