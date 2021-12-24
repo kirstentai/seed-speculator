@@ -34,9 +34,12 @@ def main():
         font_masterlist = []
         for current_page in range(page_count):
 <<<<<<< HEAD
+<<<<<<< HEAD
             page = extract_text_page(file_path, current_page)
             text_masterlist.append(str(page))
 =======
+=======
+>>>>>>> 8552e2a (01, 02 sections minor modifications)
             if extract_text_page(file_path, current_page):
                 page = extract_text_page(file_path, current_page)
                 # print(f"Page {current_page + 1}/{page_count}: Text detected")
@@ -46,6 +49,9 @@ def main():
                     page_font = extract_font(doc, current_page)
                     font_masterlist = font_masterlist + page_font
                 
+<<<<<<< HEAD
+>>>>>>> 8552e2a (01, 02 sections minor modifications)
+=======
 >>>>>>> 8552e2a (01, 02 sections minor modifications)
 
             list_of_images = extract_download_image(file_no, doc, current_page)
@@ -226,8 +232,13 @@ def print_results(file_no, page_count, images_masterlist, colors_masterlist, no_
         print(f"{len(colors_masterlist)} colors detected, {no_colors} not.\n")
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     if len(fonts_dict) != 0:
         print(f"Fonts tally: {fonts_dict}\n")
+=======
+    if len(fonts_list) != 0:
+        print(f"Fonts: {fonts_list}\n")
+>>>>>>> 8552e2a (01, 02 sections minor modifications)
 =======
     if len(fonts_list) != 0:
         print(f"Fonts: {fonts_list}\n")
